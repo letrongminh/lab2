@@ -13,26 +13,19 @@ def category_check():
     else:
         return 0
 
-
 genres = input("genres: action, free to play, strategy, rpg...\t")
-
-
 def genres_check():
     if any((genre_filter.casefold()) for genre_filter in genres):
         return 1
     else:
         return 0
 
-
 tags = input("tag of game: (action; fps; multiplayer....)\t")
-
-
 def tag_check():
     if any(tag_filter.casefold() for tag_filter in tags):
         return 1
     else:
         return 0
-
 
 rating = input("need rating of player ?, if you need, type yes:\t")
 if rating == "yes":
@@ -40,13 +33,11 @@ if rating == "yes":
 else:
     rating = False
 
-
 def check_final():
     if category_check() + genres_check() + tag_check() == 3:
         return True
     else:
         return False
-
 
 with open("steam.csv", encoding='utf-8') as df, open("result_file.txt", 'w', encoding='utf-8') as final:
     read_file = csv.reader(df)
