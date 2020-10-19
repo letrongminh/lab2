@@ -1,59 +1,53 @@
-import csv
+input_age = int(input('How old are you ? \n'))
 
-age = int(input("How old are you ?\t"))
-
-price = [float(input("min price\t")), float(input("max price\t"))]
-
-categories = input("categories of game: (Multi-player, online [row i]...) \t").split(",")
-
-
-def category_check():
-    if any(category_filter.casefold() for category_filter in categories):
-        return 1
-    else:
-        return 0
-
-genres = input("genres: action, free to play, strategy, rpg...\t")
-def genres_check():
-    if any((genre_filter.casefold()) for genre_filter in genres):
-        return 1
-    else:
-        return 0
-
-tags = input("tag of game: (action; fps; multiplayer....)\t")
-def tag_check():
-    if any(tag_filter.casefold() for tag_filter in tags):
-        return 1
-    else:
-        return 0
-
-rating = input("need rating of player ?, if you need, type yes:\t")
-if rating == "yes":
-    rating = True
-else:
-    rating = False
-
-def check_final():
-    if category_check() + genres_check() + tag_check() == 3:
+input_platforms = input('what is your platform? (windows/mac/linux)\n').split(',')
+def check_platform():
+    if any(platform in row[6].split(';') for platform in input_platforms) or input_platforms == ['']:
         return True
     else:
         return False
 
-with open("steam.csv", encoding='utf-8') as df, open("result_file.txt", 'w', encoding='utf-8') as final:
-    read_file = csv.reader(df)
-    result = csv.writer(final)
-    next(read_file)
+input_categories = input('Categories of game: (Multi-player, Online Multi-Player; Local Multi-Player; Valve Anti-Cheat enabled...)\n').split(',')
+def check_category():
+    if any(category in row[8].split(';') for category in input_categories ) or input_categories == ['']:
+        return True
+    else:
+        return False
 
-    for row in read_file:
-        ratio_rate = int(row[12]) - int(row[13])
-        category_filter = row[8].split(";")
-        genre_filter = row[9].split(";")
-        tag_filter = row[10].split(";")
+input_genres = input('Genres of game: Action, Free to play, Strategy, RPG...\n').split(',')
+def check_genre():
+    if any(genre in row[9].split(';') for genre in input_genres) or input_genres == ['']:
+        return True
+    else:
+        return False
 
-        if age >= int(row[7]):
-            if (price[0] <= float(row[17]) <= price[1]) \
-                    and (rating is True and ratio_rate >= 0) \
-                    and (check_final() is True):
-                final.write(row[1] + "\t" "price:" + row[17] + "\t" + "type " + row[9] + "\n\n")
+input_rating = input('The rating importain to you? type "yes", if it importain \n')
+if input_rating == 'yes':
+    input_rating = True
+else:
+    input_rating = False
+def check_rating():
+    if row[12].isdigit() and row[13].isdigit():
+        if ((input_rating > 0) and int(row[12]) > int(row[13])) or input_rating == 0:
+            return True
+        else:
+            return False
+    else:
+        return False
 
+input_price = [int(input('price min (dollar)? ')), int(input('price max (dollar)? '))]
+def check_price():
+    if input_price[0] <= float(row[17]) <= input_price[1]:
+        return True
+    else:
+        return False
+
+with open('steam.csv', encoding='utf-8') as f, open('result_file.txt', 'w', encoding='utf-8') as writing_result:
+    writing_result.write('Games for you:\n')
+    for row in f:
+        row = list(row.split(','))
+        if row[7].isdigit():
+            if input_age >= int(row[7]):
+                if check_category() == True and check_genre() == True and check_platform() is True and check_price() == True and check_rating() == True:
+                    writing_result.write( row[1] + "||" + "price: " + row[17] + "||" + "Category of game: " + row[9] + "\n\n")
 print("the results received in the file result_file.txt")
