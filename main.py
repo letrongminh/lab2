@@ -48,6 +48,6 @@ with open('steam.csv', encoding='utf-8') as f, open('result_file.txt', 'w', enco
         row = list(row.split(','))
         if row[7].isdigit():
             if input_age >= int(row[7]):
-                if check_category() == True and check_genre() == True and check_platform() is True and check_price() == True and check_rating() == True:
+                if check_category() is True and check_genre() is True and check_platform() is True and check_price() is True and check_rating() is True:
                     writing_result.write( row[1] + "||" + "price: " + row[17] + "||" + "Category of game: " + row[9] + "\n\n")
 print("the results received in the file result_file.txt")
