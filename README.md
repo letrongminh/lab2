@@ -23,5 +23,5 @@
 > **_ВАЖНО:_**
 Результат оформить в виде репозитория на гитхабе.
 ### Решение
--Using method reading file and writing file in Python.
--Using method isdigit() to handle string. The isdigit() method returns “True” if all characters in the string are digits, Otherwise, It returns “False”. 
+ -Using method reading file and writing file in Python.
+ -Using method isdigit() to handle string. The isdigit() method returns “True” if all characters in the string are digits, Otherwise, It returns “False”. 
