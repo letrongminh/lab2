@@ -46,7 +46,9 @@ def check_rating():
                 return False
         else:
             return False
-    # else:
+    else:
+        print("you don't care about rating")
+        return False
 
 
 input_price = [int(input('price min (dollar)? ')), int(input('price max (dollar)? '))]
@@ -72,5 +74,9 @@ with open('steam.csv', encoding='utf-8') as f, open('result_file.txt', 'w', enco
                         and check_platform() is True and check_price() is True:
                     writing_result.write(row[1] + "\n" + "price: " + row[17] + "\n" + "Category of game: "
                                          + row[9] + "\n" + "coefficient rating = " + str(coefficient_rating)
+                                         + "\n-----\n")
+                if check_rating() is False and check_category() is True and check_genre() is True \
+                        and check_platform() is True and check_price() is True:
+                    writing_result.write(row[1] + "\n" + "price: " + row[17] + "\n" + "Category of game: " + row[9] \
                                          + "\n-----\n")
 print("the results received in the file result_file.txt")
