@@ -1,0 +1,9649 @@
+Games for you:
+Counter-Strike
+price: 7.19
+
+Category of game: Action
+coefficient rating = 121195
+-----
+Team Fortress Classic
+price: 3.99
+
+Category of game: Action
+coefficient rating = 2685
+-----
+Day of Defeat
+price: 3.99
+
+Category of game: Action
+coefficient rating = 3018
+-----
+Deathmatch Classic
+price: 3.99
+
+Category of game: Action
+coefficient rating = 1006
+-----
+Half-Life: Opposing Force
+price: 3.99
+
+Category of game: Action
+coefficient rating = 4962
+-----
+Ricochet
+price: 3.99
+
+Category of game: Action
+coefficient rating = 2074
+-----
+Half-Life
+price: 7.19
+
+Category of game: Action
+coefficient rating = 26655
+-----
+Counter-Strike: Condition Zero
+price: 7.19
+
+Category of game: Action
+coefficient rating = 10681
+-----
+Counter-Strike: Source
+price: 7.19
+
+Category of game: Action
+coefficient rating = 73143
+-----
+Day of Defeat: Source
+price: 7.19
+
+Category of game: Action
+coefficient rating = 9279
+-----
+Half-Life 2: Deathmatch
+price: 3.99
+
+Category of game: Action
+coefficient rating = 5233
+-----
+Half-Life Deathmatch: Source
+price: 0.0
+
+Category of game: Action
+coefficient rating = 889
+-----
+Team Fortress 2
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 481843
+-----
+Left 4 Dead
+price: 7.19
+
+Category of game: Action
+coefficient rating = 17003
+-----
+Left 4 Dead 2
+price: 7.19
+
+Category of game: Action
+coefficient rating = 243371
+-----
+Dota 2
+price: 0.0
+
+Category of game: Action;Free to Play;Strategy
+coefficient rating = 721428
+-----
+Alien Swarm
+price: 0.0
+
+Category of game: Action
+coefficient rating = 16494
+-----
+Counter-Strike: Global Offensive
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 2242091
+-----
+Red Orchestra: Ostfront 41-45
+price: 3.99
+
+Category of game: Action
+coefficient rating = 1339
+-----
+Dark Messiah of Might & Magic
+price: 4.29
+
+Category of game: Action;RPG
+coefficient rating = 4070
+-----
+DOOM II
+price: 3.99
+
+Category of game: Action
+coefficient rating = 2335
+-----
+QUAKE
+price: 3.99
+
+Category of game: Action
+coefficient rating = 2482
+-----
+QUAKE II
+price: 3.99
+
+Category of game: Action
+coefficient rating = 1262
+-----
+QUAKE II Mission Pack: The Reckoning
+price: 2.49
+
+Category of game: Action
+coefficient rating = 53
+-----
+QUAKE II Mission Pack: Ground Zero
+price: 2.49
+
+Category of game: Action
+coefficient rating = 21
+-----
+Heretic: Shadow of the Serpent Riders
+price: 2.99
+
+Category of game: Action
+coefficient rating = 388
+-----
+The Ship: Murder Party
+price: 0.0
+
+Category of game: Action;Indie;RPG
+coefficient rating = 4027
+-----
+Bloody Good Time
+price: 4.29
+
+Category of game: Action
+coefficient rating = 458
+-----
+Act of War: Direct Action
+price: 1.99
+
+Category of game: Action
+coefficient rating = 147
+-----
+ThreadSpace: Hyperbol
+price: 3.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 22
+-----
+ARMA: Combat Operations
+price: 5.99
+
+Category of game: Action
+coefficient rating = 68
+-----
+Call of Juarez™
+price: 8.59
+
+Category of game: Action
+coefficient rating = 595
+-----
+Painkiller Overdose
+price: 4.49
+
+Category of game: Action
+coefficient rating = 292
+-----
+Judge Dredd: Dredd vs. Death
+price: 5.59
+
+Category of game: Action
+coefficient rating = 480
+-----
+Aliens versus Predator Classic 2000
+price: 3.99
+
+Category of game: Action
+coefficient rating = 1215
+-----
+S.T.A.L.K.E.R.: Shadow of Chernobyl
+price: 9.99
+
+Category of game: Action;RPG
+coefficient rating = 10469
+-----
+Full Spectrum Warrior
+price: 7.99
+
+Category of game: Action;Strategy
+coefficient rating = 46
+-----
+Full Spectrum Warrior: Ten Hammers
+price: 4.99
+
+Category of game: Action;Strategy
+coefficient rating = 38
+-----
+Company of Heroes - Legacy Edition
+price: 0.0
+
+Category of game: Violent;Action;Strategy
+coefficient rating = 4452
+-----
+Natural Selection 2
+price: 6.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 6874
+-----
+STAR WARS™ Republic Commando™
+price: 7.19
+
+Category of game: Action
+coefficient rating = 6013
+-----
+Making History: The Calm & the Storm
+price: 3.99
+
+Category of game: Action;Strategy
+coefficient rating = 353
+-----
+Bloodline Champions
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer
+coefficient rating = 1139
+-----
+Joint Task Force
+price: 5.79
+
+Category of game: Action;Strategy
+coefficient rating = 85
+-----
+Commandos: Behind Enemy Lines
+price: 3.99
+
+Category of game: Action
+coefficient rating = 1348
+-----
+Commandos: Beyond the Call of Duty
+price: 3.99
+
+Category of game: Action
+coefficient rating = 333
+-----
+Commandos 2: Men of Courage
+price: 3.99
+
+Category of game: Action
+coefficient rating = 1095
+-----
+Commandos 3: Destination Berlin
+price: 3.99
+
+Category of game: Action
+coefficient rating = 156
+-----
+Deus Ex: Game of the Year Edition
+price: 4.99
+
+Category of game: Action
+coefficient rating = 5895
+-----
+Project: Snowblind
+price: 3.99
+
+Category of game: Action
+coefficient rating = 114
+-----
+Rogue Trooper
+price: 6.99
+
+Category of game: Action
+coefficient rating = 233
+-----
+NecroVision
+price: 3.99
+
+Category of game: Action
+coefficient rating = 269
+-----
+Kane and Lynch: Dead Men™
+price: 4.99
+
+Category of game: Action
+coefficient rating = 499
+-----
+Battlestations Pacific
+price: 6.99
+
+Category of game: Action;Strategy
+coefficient rating = 486
+-----
+EVE Online
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;RPG;Strategy
+coefficient rating = 5485
+-----
+Return to Castle Wolfenstein
+price: 3.99
+
+Category of game: Action
+coefficient rating = 2808
+-----
+QUAKE Mission Pack 2: Dissolution of Eternity
+price: 2.49
+
+Category of game: Action
+coefficient rating = 128
+-----
+QUAKE Mission Pack 1: Scourge of Armagon
+price: 2.49
+
+Category of game: Action
+coefficient rating = 192
+-----
+DOOM 3
+price: 0.0
+
+Category of game: Action
+coefficient rating = 2257
+-----
+HeXen II
+price: 2.99
+
+Category of game: Action
+coefficient rating = 134
+-----
+RAGE
+price: 7.99
+
+Category of game: Action
+coefficient rating = 6512
+-----
+Company of Heroes: Opposing Fronts
+price: 9.99
+
+Category of game: Action;Strategy
+coefficient rating = 527
+-----
+Act of War: High Treason
+price: 1.99
+
+Category of game: Action
+coefficient rating = 119
+-----
+TimeShift™
+price: 9.99
+
+Category of game: Action
+coefficient rating = 464
+-----
+The Club™
+price: 9.99
+
+Category of game: Action
+coefficient rating = 366
+-----
+Aliens vs. Predator™
+price: 9.99
+
+Category of game: Action
+coefficient rating = 8262
+-----
+Space Trader: Merchant Marine
+price: 3.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 89
+-----
+Penguins Arena: Sedna's World
+price: 4.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 773
+-----
+Damnation
+price: 6.99
+
+Category of game: Action;Adventure
+coefficient rating = 187
+-----
+America's Army 3
+price: 0.0
+
+Category of game: Action
+coefficient rating = 792
+-----
+Tom Clancy's Rainbow Six® Vegas
+price: 8.59
+
+Category of game: Action
+coefficient rating = 265
+-----
+Tom Clancy's Ghost Recon® Desert Siege™
+price: 4.29
+
+Category of game: Action
+coefficient rating = 32
+-----
+Tom Clancy's Rainbow Six Lockdown™
+price: 4.29
+
+Category of game: Action
+coefficient rating = 1
+-----
+Tom Clancy's Rainbow Six® Vegas 2
+price: 8.59
+
+Category of game: Action
+coefficient rating = 2126
+-----
+F.E.A.R. 2: Project Origin
+price: 9.99
+
+Category of game: Action
+coefficient rating = 2765
+-----
+Tribes: Ascend
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 4732
+-----
+Need for Speed Undercover
+price: 9.99
+
+Category of game: Action;Racing
+coefficient rating = 1270
+-----
+Zombie Panic! Source
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 4353
+-----
+Nuclear Dawn
+price: 6.99
+
+Category of game: Action;Strategy
+coefficient rating = 1234
+-----
+Empires Mod
+price: 0.0
+
+Category of game: Action;Free to Play;Strategy
+coefficient rating = 548
+-----
+Zero Gear
+price: 3.99
+
+Category of game: Action;Indie;Racing;Sports
+coefficient rating = 479
+-----
+Far Cry® 2: Fortune's Edition
+price: 8.59
+
+Category of game: Action
+coefficient rating = 3553
+-----
+S.T.A.L.K.E.R.: Clear Sky
+price: 7.99
+
+Category of game: Action;RPG
+coefficient rating = 4647
+-----
+Watchmen: The End is Nigh
+price: 3.99
+
+Category of game: Action
+coefficient rating = 107
+-----
+Bionic Commando
+price: 6.49
+
+Category of game: Action;Adventure
+coefficient rating = 402
+-----
+Rock of Ages
+price: 6.99
+
+Category of game: Action;Indie;Racing;Strategy
+coefficient rating = 2360
+-----
+Rogue Warrior
+price: 3.99
+
+Category of game: Action
+coefficient rating = 226
+-----
+BRINK
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 1162
+-----
+DC Universe™ Online
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 7484
+-----
+Medal of Honor: Airborne
+price: 9.99
+
+Category of game: Action
+coefficient rating = 1264
+-----
+Drug Wars
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 125
+-----
+Blacklight: Tango Down
+price: 0.79
+
+Category of game: Action
+coefficient rating = 4
+-----
+Booster Trooper
+price: 1.69
+
+Category of game: Action;Indie
+coefficient rating = 27
+-----
+Kane & Lynch 2: Dog Days
+price: 7.99
+
+Category of game: Action
+coefficient rating = 903
+-----
+Dark Sector
+price: 6.99
+
+Category of game: Action
+coefficient rating = 241
+-----
+Metal Drift
+price: 6.99
+
+Category of game: Action;Indie;Racing;Sports
+coefficient rating = 36
+-----
+STAR WARS™ Jedi Knight: Dark Forces II
+price: 4.79
+
+Category of game: Action
+coefficient rating = 462
+-----
+STAR WARS™ Jedi Knight - Mysteries of the Sith™
+price: 2.09
+
+Category of game: Action
+coefficient rating = 174
+-----
+Delta Force 2
+price: 3.99
+
+Category of game: Action
+coefficient rating = 140
+-----
+Delta Force Land Warrior
+price: 6.99
+
+Category of game: Action
+coefficient rating = 110
+-----
+Delta Force: Task Force Dagger
+price: 6.99
+
+Category of game: Action
+coefficient rating = 44
+-----
+Delta Force: Black Hawk Down
+price: 0.0
+
+Category of game: Action
+coefficient rating = 235
+-----
+Delta Force — Black Hawk Down: Team Sabre
+price: 0.0
+
+Category of game: Action
+coefficient rating = 150
+-----
+Comanche 4
+price: 6.99
+
+Category of game: Action;Simulation
+coefficient rating = 77
+-----
+Crash Time 3
+price: 3.99
+
+Category of game: Action;Racing
+coefficient rating = 164
+-----
+Arma 2
+price: 7.99
+
+Category of game: Action;Simulation;Strategy
+coefficient rating = 1371
+-----
+Sniper: Ghost Warrior
+price: 5.99
+
+Category of game: Action
+coefficient rating = 415
+-----
+Sniper: Ghost Warrior 2
+price: 6.99
+
+Category of game: Action
+coefficient rating = 4051
+-----
+Lara Croft and the Guardian of Light
+price: 7.99
+
+Category of game: Action;Adventure
+coefficient rating = 2269
+-----
+Trine Enchanted Edition
+price: 9.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 9041
+-----
+Angle of Attack
+price: 6.99
+
+Category of game: Action;Simulation
+coefficient rating = 1
+-----
+All Aspect Warfare
+price: 6.99
+
+Category of game: Action;Simulation
+coefficient rating = 1
+-----
+Kingpin — Life of Crime
+price: 6.99
+
+Category of game: Action
+coefficient rating = 121
+-----
+Painkiller: Resurrection
+price: 8.99
+
+Category of game: Action
+coefficient rating = 545
+-----
+AquaNox
+price: 4.49
+
+Category of game: Action
+coefficient rating = 94
+-----
+Chaser
+price: 4.49
+
+Category of game: Action
+coefficient rating = 385
+-----
+Nation Red
+price: 1.79
+
+Category of game: Action;Indie
+coefficient rating = 1821
+-----
+Sacraboar
+price: 2.09
+
+Category of game: Action;Strategy;Indie
+coefficient rating = 2096
+-----
+Altitude
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 1412
+-----
+Lead and Gold: Gangs of the Wild West
+price: 7.99
+
+Category of game: Action
+coefficient rating = 926
+-----
+DogFighter
+price: 1.99
+
+Category of game: Action;Indie
+coefficient rating = 80
+-----
+Magicka
+price: 7.99
+
+Category of game: Action;RPG
+coefficient rating = 18948
+-----
+Front Mission Evolved
+price: 7.99
+
+Category of game: Action
+coefficient rating = 171
+-----
+The Haunted: Hells Reach
+price: 5.99
+
+Category of game: Action;Indie
+coefficient rating = 426
+-----
+Super Laser  Racer
+price: 2.99
+
+Category of game: Action;Indie;Racing
+coefficient rating = 62
+-----
+NecroVisioN: Lost Company
+price: 4.99
+
+Category of game: Action
+coefficient rating = 98
+-----
+Trapped Dead
+price: 3.99
+
+Category of game: Action;Strategy
+coefficient rating = 48
+-----
+Swarm Arena
+price: 2.89
+
+Category of game: Action;Casual;Indie
+coefficient rating = 28
+-----
+Mount & Blade: With Fire & Sword
+price: 7.99
+
+Category of game: Action;RPG
+coefficient rating = 5181
+-----
+Beat Hazard
+price: 6.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 5968
+-----
+Plain Sight
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 94
+-----
+ProtoGalaxy
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 8
+-----
+Critter Crunch
+price: 4.99
+
+Category of game: Action;Indie;Casual
+coefficient rating = 242
+-----
+HOARD
+price: 6.99
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 505
+-----
+Monday Night Combat
+price: 3.99
+
+Category of game: Action;Strategy;Indie;Sports
+coefficient rating = 515
+-----
+Swords and Soldiers HD
+price: 6.99
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 412
+-----
+ARMA: Gold Edition
+price: 5.99
+
+Category of game: Action;Simulation;Strategy
+coefficient rating = 339
+-----
+Dungeon Defenders
+price: 9.99
+
+Category of game: Action;Indie;RPG;Strategy
+coefficient rating = 9761
+-----
+Dino D-Day
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 9855
+-----
+Space Channel 5: Part 2
+price: 5.59
+
+Category of game: Action
+coefficient rating = 598
+-----
+Sanctum
+price: 7.19
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 2256
+-----
+E.Y.E: Divine Cybermancy
+price: 6.99
+
+Category of game: Action;Indie;RPG
+coefficient rating = 3553
+-----
+Post Apocalyptic Mayhem
+price: 6.99
+
+Category of game: Action;Racing
+coefficient rating = 994
+-----
+Nidhogg
+price: 6.99
+
+Category of game: Action;Indie;Sports
+coefficient rating = 4722
+-----
+ibb & obb
+price: 8.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 2914
+-----
+Air Conflicts: Secret Wars
+price: 4.79
+
+Category of game: Action;Simulation
+coefficient rating = 56
+-----
+Nexuiz
+price: 7.99
+
+Category of game: Action
+coefficient rating = 62
+-----
+Naval Warfare
+price: 1.99
+
+Category of game: Action;Indie
+coefficient rating = 13
+-----
+Yar's Revenge
+price: 6.99
+
+Category of game: Action
+coefficient rating = 9
+-----
+Renegade Ops
+price: 9.99
+
+Category of game: Action
+coefficient rating = 1476
+-----
+Vertex Dispenser
+price: 6.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 11
+-----
+Gatling Gears
+price: 7.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 67
+-----
+ORION: Prelude
+price: 0.79
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 14499
+-----
+Ms. Splosion Man
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 118
+-----
+Terraria
+price: 6.99
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 247803
+-----
+Death Rally
+price: 6.99
+
+Category of game: Action;Racing
+coefficient rating = 218
+-----
+Bunch of Heroes
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 282
+-----
+APB Reloaded
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer
+coefficient rating = 8249
+-----
+Global Ops: Commando Libya
+price: 3.99
+
+Category of game: Action
+coefficient rating = 999
+-----
+Realm of the Mad God
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;RPG
+coefficient rating = 18686
+-----
+Revelations 2012
+price: 0.0
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 55
+-----
+Demigod
+price: 7.19
+
+Category of game: Nudity;Violent;Action;RPG;Strategy
+coefficient rating = 352
+-----
+America's Army: Proving Grounds
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 4511
+-----
+Binary Domain
+price: 9.99
+
+Category of game: Action
+coefficient rating = 3674
+-----
+Awesomenauts - the 2D moba
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Strategy
+coefficient rating = 17092
+-----
+Serious Sam 2
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 4651
+-----
+Castle Crashers®
+price: 9.99
+
+Category of game: Action;Adventure;Casual;Indie;RPG
+coefficient rating = 48210
+-----
+Confrontation
+price: 6.99
+
+Category of game: Action;RPG;Strategy
+coefficient rating = 1827
+-----
+Rotastic
+price: 7.99
+
+Category of game: Action;Casual
+coefficient rating = 19
+-----
+Men of War: Condemned Heroes
+price: 5.59
+
+Category of game: Action;Strategy
+coefficient rating = 87
+-----
+Foreign Legion: Multi Massacre
+price: 4.79
+
+Category of game: Action;Indie;Casual
+coefficient rating = 92
+-----
+Port Royale 3
+price: 9.99
+
+Category of game: Action;Simulation;Strategy
+coefficient rating = 265
+-----
+AirMech Strike
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Strategy
+coefficient rating = 6200
+-----
+Fireburst
+price: 6.99
+
+Category of game: Action;Adventure;Racing
+coefficient rating = 3
+-----
+ArcheBlade™
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 3556
+-----
+Arena Wars 2
+price: 2.79
+
+Category of game: Action;Strategy
+coefficient rating = 10
+-----
+Sacred Citadel
+price: 7.99
+
+Category of game: Action
+coefficient rating = 358
+-----
+Blades of Time
+price: 6.99
+
+Category of game: Action;Adventure
+coefficient rating = 1030
+-----
+Guns of Icarus Online
+price: 3.99
+
+Category of game: Action;Adventure;Indie;Simulation
+coefficient rating = 11656
+-----
+Rune Classic
+price: 6.99
+
+Category of game: Action;Adventure
+coefficient rating = 491
+-----
+Wanderlust: Rebirth
+price: 3.99
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 20
+-----
+Star Conflict
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Simulation
+coefficient rating = 5851
+-----
+Vindictus
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 2186
+-----
+Continent of the Ninth Seal
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 558
+-----
+Sonic Adventure 2
+price: 5.99
+
+Category of game: Action
+coefficient rating = 3763
+-----
+Tower Wars
+price: 5.59
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 743
+-----
+Gear Up
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 4158
+-----
+Half Minute Hero: Super Mega Neo Climax Ultimate Boy
+price: 6.99
+
+Category of game: Action;Casual;RPG
+coefficient rating = 975
+-----
+Air Conflicts: Pacific Carriers
+price: 7.19
+
+Category of game: Action;Simulation
+coefficient rating = 1561
+-----
+Secret World Legends
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 2314
+-----
+Primal Carnage
+price: 5.59
+
+Category of game: Action;Indie
+coefficient rating = 3124
+-----
+Closers
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 1327
+-----
+Din's Curse
+price: 6.99
+
+Category of game: Action;Indie;RPG
+coefficient rating = 120
+-----
+PlanetSide 2
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer
+coefficient rating = 28215
+-----
+PAYDAY 2
+price: 7.49
+
+Category of game: Action;RPG
+coefficient rating = 252134
+-----
+King Arthur's Gold
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 2484
+-----
+Insurgency
+price: 6.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 82785
+-----
+Miner Wars 2081
+price: 3.99
+
+Category of game: Action;Adventure;Indie;RPG;Simulation
+coefficient rating = 261
+-----
+No More Room in Hell
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 42443
+-----
+Defiance
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 6342
+-----
+Blade Symphony
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 1592
+-----
+Sven Co-op
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie
+coefficient rating = 11038
+-----
+PixelJunk™ Nom Nom Galaxy
+price: 6.99
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 327
+-----
+Scourge: Outbreak
+price: 5.59
+
+Category of game: Action;Indie
+coefficient rating = 155
+-----
+Serious Sam Classics: Revolution
+price: 7.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 1174
+-----
+Retrovirus
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 76
+-----
+Heroes & Generals
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer
+coefficient rating = 31440
+-----
+Company of Heroes
+price: 0.0
+
+Category of game: Violent;Action;Strategy
+coefficient rating = 2239
+-----
+A Fistful of Gun
+price: 9.99
+
+Category of game: Action;Indie
+coefficient rating = 148
+-----
+Warframe
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 206273
+-----
+Final Exam
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 618
+-----
+UnEpic
+price: 9.99
+
+Category of game: Action;Indie;RPG
+coefficient rating = 5450
+-----
+Rush Bros.
+price: 7.19
+
+Category of game: Action;Indie;Racing
+coefficient rating = 212
+-----
+Prime World
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 576
+-----
+Dungeon Defenders II
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;RPG;Strategy
+coefficient rating = 6964
+-----
+Interstellar Marines
+price: 6.95
+
+Category of game: Action;Indie;RPG;Simulation;Early Access
+coefficient rating = 1610
+-----
+Takedown: Red Sabre
+price: 3.99
+
+Category of game: Action;Simulation;Strategy
+coefficient rating = 6
+-----
+Elsword
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 3244
+-----
+Planet Explorers
+price: 7.19
+
+Category of game: Action;Adventure;Indie;RPG;Simulation
+coefficient rating = 2118
+-----
+Super Puzzle Platformer Deluxe
+price: 5.59
+
+Category of game: Action;Casual;Indie
+coefficient rating = 334
+-----
+Path of Exile
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG
+coefficient rating = 65476
+-----
+Hammerwatch
+price: 6.99
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 4526
+-----
+Panzar
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 1378
+-----
+Wanderlust Adventures
+price: 6.99
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 51
+-----
+Half Minute Hero: The Second Coming
+price: 6.99
+
+Category of game: Action;Indie;RPG
+coefficient rating = 392
+-----
+CastleStorm
+price: 6.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 975
+-----
+Kill to Collect
+price: 6.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 80
+-----
+Epigenesis
+price: 0.0
+
+Category of game: Action;Indie;Sports
+coefficient rating = 389
+-----
+Divekick
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 1150
+-----
+Skullgirls
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 13460
+-----
+Strike Vector
+price: 8.99
+
+Category of game: Action;Indie
+coefficient rating = 804
+-----
+Recruits
+price: 6.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 779
+-----
+Bombernauts
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 103
+-----
+Dino Run DX
+price: 4.79
+
+Category of game: Action;Indie;Racing
+coefficient rating = 541
+-----
+Omegalodon
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 106
+-----
+Risk of Rain
+price: 6.99
+
+Category of game: Action;Indie;RPG
+coefficient rating = 21111
+-----
+Galactic Arms Race
+price: 1.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 8
+-----
+METAL SLUG 3
+price: 5.99
+
+Category of game: Action
+coefficient rating = 4676
+-----
+Blockland
+price: 7.19
+
+Category of game: Action;Indie;Simulation
+coefficient rating = 2262
+-----
+Speedball 2 HD
+price: 6.99
+
+Category of game: Action;Indie;Sports
+coefficient rating = 159
+-----
+Gimbal
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 105
+-----
+Zombie Tycoon 2: Brainhov's Revenge
+price: 3.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 77
+-----
+McDROID
+price: 6.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 69
+-----
+CastleMiner Z
+price: 2.79
+
+Category of game: Violent;Action;Adventure;Indie
+coefficient rating = 2647
+-----
+CABAL Online
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 218
+-----
+Tiny Brains
+price: 7.19
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 243
+-----
+theHunter Classic
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Simulation;Sports
+coefficient rating = 243
+-----
+Bloody Trapland
+price: 6.99
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 1992
+-----
+Riptide GP2
+price: 4.99
+
+Category of game: Action;Indie;Racing;Simulation;Sports
+coefficient rating = 291
+-----
+Ring Runner: Flight of the Sages
+price: 3.99
+
+Category of game: Action;Indie;RPG
+coefficient rating = 481
+-----
+Survivor Squad
+price: 2.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 268
+-----
+Just Cause 2: Multiplayer Mod
+price: 0.0
+
+Category of game: Action;Adventure
+coefficient rating = 11162
+-----
+Chicken Shoot Gold
+price: 4.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 31
+-----
+3079 -- Block Action RPG
+price: 3.99
+
+Category of game: Action;Indie;RPG
+coefficient rating = 562
+-----
+Lethal League
+price: 9.99
+
+Category of game: Action;Indie;Sports
+coefficient rating = 4850
+-----
+Trench Run
+price: 2.89
+
+Category of game: Action;Casual;Indie
+coefficient rating = 6
+-----
+Blockstorm
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 4065
+-----
+Signs of Life
+price: 6.99
+
+Category of game: Action;Adventure;Casual;Indie;RPG;Early Access
+coefficient rating = 354
+-----
+Probably Archery
+price: 3.99
+
+Category of game: Action;Casual;Indie;Sports
+coefficient rating = 367
+-----
+Final Rush
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 92
+-----
+Dragons and Titans
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;RPG
+coefficient rating = 1720
+-----
+Muffin Knight
+price: 3.99
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 204
+-----
+FootLOL: Epic Fail League
+price: 9.99
+
+Category of game: Action;Indie;RPG;Sports
+coefficient rating = 685
+-----
+Zombie Grinder
+price: 6.19
+
+Category of game: Action;Adventure;Indie;RPG;Early Access
+coefficient rating = 132
+-----
+WazHack
+price: 6.99
+
+Category of game: Action;Indie;RPG;Strategy
+coefficient rating = 375
+-----
+Acceleration of SUGURI X-Edition HD
+price: 4.79
+
+Category of game: Action;Indie
+coefficient rating = 139
+-----
+The Red Solstice
+price: 7.19
+
+Category of game: Action;Indie;RPG;Strategy
+coefficient rating = 941
+-----
+Fistful of Frags
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 21404
+-----
+Cannons Lasers Rockets
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer
+coefficient rating = 590
+-----
+Lost Saga NA
+price: 0.0
+
+Category of game: Action;Casual;Free to Play
+coefficient rating = 134
+-----
+Astral Terra
+price: 7.19
+
+Category of game: Action;Adventure;Indie;RPG;Early Access
+coefficient rating = 18
+-----
+Calibre 10 Racing
+price: 1.59
+
+Category of game: Action;Racing;Early Access
+coefficient rating = 53
+-----
+Meltdown
+price: 3.49
+
+Category of game: Action;Indie
+coefficient rating = 532
+-----
+Orc Attack: Flatulent Rebellion
+price: 6.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 21756
+-----
+Magicite
+price: 7.19
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 4552
+-----
+The Dishwasher: Vampire Smile
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 384
+-----
+Hero Siege
+price: 6.99
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;RPG
+coefficient rating = 10906
+-----
+Voice of Pripyat
+price: 4.99
+
+Category of game: Action;Indie;Massively Multiplayer;Early Access
+coefficient rating = 1073
+-----
+A Mass of Dead
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 18
+-----
+Robot Roller-Derby Disco Dodgeball
+price: 6.99
+
+Category of game: Action;Indie;Sports
+coefficient rating = 2896
+-----
+Yet Another Zombie Defense
+price: 0.0
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 8371
+-----
+Space Farmers
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 843
+-----
+Over 9000 Zombies!
+price: 1.59
+
+Category of game: Action;Indie
+coefficient rating = 787
+-----
+Descent
+price: 7.19
+
+Category of game: Action
+coefficient rating = 253
+-----
+Descent 2
+price: 6.99
+
+Category of game: Action
+coefficient rating = 60
+-----
+Descent 3
+price: 6.99
+
+Category of game: Action
+coefficient rating = 18
+-----
+Descent: FreeSpace – The Great War
+price: 6.99
+
+Category of game: Action
+coefficient rating = 93
+-----
+Freespace 2
+price: 6.99
+
+Category of game: Action
+coefficient rating = 101
+-----
+Murder Miners
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 3477
+-----
+Tango Fiesta
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 16
+-----
+Digger Online
+price: 6.99
+
+Category of game: Action;Adventure
+coefficient rating = 161
+-----
+9th Dawn II
+price: 1.49
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 80
+-----
+Infinity Runner
+price: 4.99
+
+Category of game: Action;Indie
+coefficient rating = 39
+-----
+Gunjitsu
+price: 2.79
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 545
+-----
+Creativerse
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG;Simulation
+coefficient rating = 14203
+-----
+Battlepillars Gold Edition
+price: 3.99
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 214
+-----
+Carmageddon Max Pack
+price: 5.99
+
+Category of game: Action;Indie;Racing
+coefficient rating = 317
+-----
+Quake Live™
+price: 6.99
+
+Category of game: Action
+coefficient rating = 8271
+-----
+Stick 'Em Up 2: Paper Adventures
+price: 1.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 40
+-----
+Masterspace
+price: 5.79
+
+Category of game: Action;Indie;RPG;Simulation
+coefficient rating = 9811
+-----
+Jagged Alliance 1: Gold Edition
+price: 6.99
+
+Category of game: Action;RPG;Strategy
+coefficient rating = 65
+-----
+Purgatory: War of the Damned
+price: 9.99
+
+Category of game: Action;RPG;Early Access
+coefficient rating = 302
+-----
+Sledgehammer / Gear Grinder
+price: 5.59
+
+Category of game: Action;Racing
+coefficient rating = 37
+-----
+Shadow Ops: Red Mercury
+price: 4.99
+
+Category of game: Action
+coefficient rating = 109
+-----
+Hard Truck Apocalypse: Rise Of Clans / Ex Machina: Meridian 113
+price: 4.79
+
+Category of game: Action;Racing
+coefficient rating = 220
+-----
+Conflicks - Revolutionary Space Battles
+price: 4.99
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 68
+-----
+Faces of War
+price: 3.99
+
+Category of game: Action;Simulation;Strategy
+coefficient rating = 407
+-----
+ROCKETSROCKETSROCKETS
+price: 4.99
+
+Category of game: Action;Casual;Indie;Sports;Strategy
+coefficient rating = 313
+-----
+Warface
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer
+coefficient rating = 18342
+-----
+Brawlhalla
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 58779
+-----
+Panzer Elite Action Gold Edition
+price: 8.99
+
+Category of game: Action;Simulation
+coefficient rating = 2
+-----
+Magical Battle Festa
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 110
+-----
+Guns and Robots
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;RPG
+coefficient rating = 523
+-----
+Arson and Plunder: Unleashed
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 523
+-----
+Dark Raid
+price: 2.79
+
+Category of game: Action;Indie
+coefficient rating = 502
+-----
+Cult of the Wind
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 8
+-----
+Kill The Bad Guy
+price: 6.99
+
+Category of game: Action;Indie;Simulation;Strategy
+coefficient rating = 94
+-----
+Haegemonia: Legions of Iron
+price: 3.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 5
+-----
+Haegemonia: The Solon Heritage
+price: 3.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 17
+-----
+G-Ball
+price: 0.79
+
+Category of game: Action;Indie;Simulation;Sports
+coefficient rating = 442
+-----
+Iron Storm
+price: 1.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 23
+-----
+Ballistic Overkill
+price: 8.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 3170
+-----
+Neon Shadow
+price: 3.99
+
+Category of game: Action
+coefficient rating = 36
+-----
+Overruled!
+price: 9.99
+
+Category of game: Action;Indie
+coefficient rating = 9
+-----
+XenoRaptor
+price: 6.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 97
+-----
+FLASHOUT 2
+price: 3.99
+
+Category of game: Action;Indie;Racing;Simulation
+coefficient rating = 37
+-----
+Orbital Gear
+price: 5.99
+
+Category of game: Action;Indie;Simulation
+coefficient rating = 1190
+-----
+Block N Load
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Strategy
+coefficient rating = 7660
+-----
+CubeGun
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Early Access
+coefficient rating = 78
+-----
+Rooks Keep
+price: 5.59
+
+Category of game: Violent;Gore;Action;Indie;Strategy
+coefficient rating = 29
+-----
+Metal Planet
+price: 4.79
+
+Category of game: Action;Indie
+coefficient rating = 49
+-----
+Divine Souls F2P MMO
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Strategy
+coefficient rating = 449
+-----
+Chicken Invaders 4
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 235
+-----
+Kill Fun Yeah
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 359
+-----
+BOMB: Who let the dogfight?
+price: 5.59
+
+Category of game: Action;Adventure;Indie;Simulation
+coefficient rating = 17
+-----
+Robocraft
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;RPG;Simulation
+coefficient rating = 49373
+-----
+Of Guards And Thieves
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Massively Multiplayer;Early Access
+coefficient rating = 2008
+-----
+Call to Arms
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Simulation;Strategy
+coefficient rating = 3643
+-----
+BlazeRush
+price: 6.99
+
+Category of game: Action;Indie;Racing
+coefficient rating = 788
+-----
+Dungeons: The Eye of Draconus
+price: 2.09
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 45
+-----
+FreakOut: Extreme Freeride
+price: 8.99
+
+Category of game: Action;Sports
+coefficient rating = 26
+-----
+Sky Gamblers: Storm Raiders
+price: 6.99
+
+Category of game: Action;Indie;Simulation
+coefficient rating = 115
+-----
+We Need To Go Deeper
+price: 6.99
+
+Category of game: Action;Indie;Simulation;Early Access
+coefficient rating = 1159
+-----
+Asteria
+price: 3.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 30
+-----
+Curses 'N Chaos
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 9
+-----
+SLEEPOVER
+price: 5.79
+
+Category of game: Action;Indie;Simulation;Early Access
+coefficient rating = 4
+-----
+Orborun
+price: 4.79
+
+Category of game: Action;Indie;Racing
+coefficient rating = 238
+-----
+NS2: Combat
+price: 0.0
+
+Category of game: Action;Indie;RPG
+coefficient rating = 15
+-----
+Man in a Maze: Deathmatch
+price: 6.99
+
+Category of game: Action
+coefficient rating = 2
+-----
+Vertical Drop Heroes HD
+price: 4.99
+
+Category of game: Action;Indie
+coefficient rating = 446
+-----
+Wild Warfare
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Early Access
+coefficient rating = 402
+-----
+Duck Game
+price: 9.99
+
+Category of game: Action;Indie
+coefficient rating = 16014
+-----
+METAL SLUG X
+price: 5.59
+
+Category of game: Action
+coefficient rating = 1380
+-----
+Boid
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Strategy
+coefficient rating = 404
+-----
+Double Dragon Trilogy
+price: 4.79
+
+Category of game: Action
+coefficient rating = 91
+-----
+Bombing Bastards
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 26
+-----
+CubeZ
+price: 5.59
+
+Category of game: Action;Adventure;Casual;Indie;Early Access
+coefficient rating = 302
+-----
+Rampage Knights
+price: 8.99
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 2112
+-----
+Aware
+price: 9.99
+
+Category of game: Action;Adventure;Indie;Early Access
+coefficient rating = 325
+-----
+Dig or Die
+price: 9.29
+
+Category of game: Action;Indie;RPG;Strategy
+coefficient rating = 2492
+-----
+The Joylancer: Legendary Motor Knight
+price: 6.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 7
+-----
+Daedalus - No Escape
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 80
+-----
+sZone-Online
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 10
+-----
+Battle of Empires : 1914-1918
+price: 5.99
+
+Category of game: Action;Strategy
+coefficient rating = 521
+-----
+The Original Strife: Veteran Edition
+price: 6.99
+
+Category of game: Action;RPG
+coefficient rating = 301
+-----
+Double Action: Boogaloo
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 8466
+-----
+AXYOS
+price: 3.99
+
+Category of game: Action;Indie;Massively Multiplayer
+coefficient rating = 64
+-----
+CHAOS - In the Darkness
+price: 5.59
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 120
+-----
+Heroes of SoulCraft - Arcade MOBA
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;RPG;Strategy
+coefficient rating = 211
+-----
+AX:EL - Air XenoDawn
+price: 0.0
+
+Category of game: Action;Indie;Simulation
+coefficient rating = 518
+-----
+Coffin Dodgers
+price: 8.99
+
+Category of game: Action;Casual;Indie;Racing
+coefficient rating = 230
+-----
+Fabula Mortis
+price: 5.79
+
+Category of game: Action;Indie
+coefficient rating = 70
+-----
+Wickland
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 68
+-----
+UNLOVED
+price: 6.99
+
+Category of game: Action
+coefficient rating = 381
+-----
+Primal Carnage: Extinction
+price: 9.99
+
+Category of game: Action;Indie
+coefficient rating = 1775
+-----
+Supraball
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Sports
+coefficient rating = 1180
+-----
+Cavern Kings
+price: 6.99
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 100
+-----
+TOTM
+price: 5.59
+
+Category of game: Action;Indie;Strategy;Early Access
+coefficient rating = 526
+-----
+Monster Truck Destruction
+price: 3.99
+
+Category of game: Action;Racing
+coefficient rating = 9
+-----
+TOXIKK™
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 2683
+-----
+Defenders of the Last Colony
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 141
+-----
+Windward
+price: 6.99
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 1651
+-----
+ShellShock Live
+price: 4.99
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Strategy;Early Access
+coefficient rating = 10162
+-----
+Reflex Arena
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 1003
+-----
+Deer Hunt Legends
+price: 3.99
+
+Category of game: Action;Sports
+coefficient rating = 4
+-----
+Gems of War - Puzzle RPG
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;RPG;Strategy
+coefficient rating = 2210
+-----
+Pix the Cat
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 179
+-----
+Warlocks vs Shadows
+price: 9.99
+
+Category of game: Action;Indie;RPG
+coefficient rating = 69
+-----
+Runes of Brennos
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 17
+-----
+Celestial Command
+price: 7.99
+
+Category of game: Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access
+coefficient rating = 193
+-----
+Noct
+price: 6.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 109
+-----
+Shark Attack Deathmatch 2
+price: 1.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 764
+-----
+Radial-G : Racing Revolved
+price: 7.19
+
+Category of game: Action;Indie;Racing
+coefficient rating = 81
+-----
+Heavy Metal Machines
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;Racing;Sports;Strategy
+coefficient rating = 1079
+-----
+Carmageddon TDR 2000
+price: 2.99
+
+Category of game: Action;Indie;Racing
+coefficient rating = 103
+-----
+Disney's Treasure Planet: Battle of Procyon
+price: 7.19
+
+Category of game: Action;Adventure;Strategy
+coefficient rating = 88
+-----
+The Next Penelope
+price: 9.99
+
+Category of game: Action;Indie;Racing
+coefficient rating = 120
+-----
+PixelJunk™ Shooter Ultimate
+price: 6.99
+
+Category of game: Action
+coefficient rating = 58
+-----
+The Exiled
+price: 0.0
+
+Category of game: Action;Massively Multiplayer;RPG;Early Access
+coefficient rating = 26
+-----
+Barbarian Brawl
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 15
+-----
+National Zombie Park
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 11
+-----
+Do Not Fall
+price: 6.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 9
+-----
+Star Rangers™ XE
+price: 8.99
+
+Category of game: Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Early Access
+coefficient rating = 45
+-----
+Towers of Altrac - Epic Defense Battles
+price: 2.09
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 19
+-----
+Dirty Bomb®
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 32852
+-----
+Down To One
+price: 0.79
+
+Category of game: Action
+coefficient rating = 97
+-----
+Square Heroes
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 182
+-----
+Brick-Force
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 55
+-----
+Grimoire: Manastorm
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 398
+-----
+Combat Monsters
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;RPG;Strategy
+coefficient rating = 71
+-----
+Bloodsports.TV
+price: 6.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 265
+-----
+Zombie Vikings
+price: 8.99
+
+Category of game: Action;Adventure
+coefficient rating = 138
+-----
+Ratz Instagib
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 1775
+-----
+Batla
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 504
+-----
+Super Treasure Arena
+price: 5.59
+
+Category of game: Action;Indie
+coefficient rating = 22
+-----
+Trouble In The Manor
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 53
+-----
+Navy Field 2 : Conqueror of the Ocean
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;RPG;Simulation;Strategy
+coefficient rating = 53
+-----
+Ukrainian Ninja
+price: 0.0
+
+Category of game: Action;Casual;Indie
+coefficient rating = 5
+-----
+Strife®
+price: 0.0
+
+Category of game: Action;Free to Play;RPG;Strategy
+coefficient rating = 2480
+-----
+Uncraft World
+price: 6.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 308
+-----
+Quintet
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 183
+-----
+Grand Class Melee 2
+price: 5.49
+
+Category of game: Action;Indie;RPG;Strategy
+coefficient rating = 23
+-----
+Project Green Beat
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 7
+-----
+TDP4:Team Battle
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Massively Multiplayer
+coefficient rating = 539
+-----
+Wanted Corp.
+price: 8.99
+
+Category of game: Action
+coefficient rating = 539
+-----
+Paparazzi
+price: 1.59
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+Throbax TD
+price: 1.99
+
+Category of game: Action;Indie;RPG;Strategy;Early Access
+coefficient rating = 15
+-----
+Barren Roads
+price: 5.99
+
+Category of game: Action;Adventure;RPG;Early Access
+coefficient rating = 15
+-----
+HitBox
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+Dispatcher
+price: 3.19
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 94
+-----
+Games of Glory
+price: 0.0
+
+Category of game: Action;Free to Play;Strategy
+coefficient rating = 74
+-----
+MechWarrior Online™ Solaris 7
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Simulation;Strategy
+coefficient rating = 2844
+-----
+Zombie Kill of the Week - Reborn
+price: 4.99
+
+Category of game: Action;Indie
+coefficient rating = 673
+-----
+Gunscape
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 466
+-----
+Heroes Never Lose: Professor Puzzler's Perplexing Ploy
+price: 5.99
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 55
+-----
+HIS (Heroes In the Sky)
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;RPG;Simulation;Strategy
+coefficient rating = 1955
+-----
+Samudai
+price: 1.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 8
+-----
+Toto Temple Deluxe
+price: 6.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 34
+-----
+Motorbike
+price: 7.19
+
+Category of game: Action;Casual;Indie;Racing;Simulation;Sports
+coefficient rating = 20
+-----
+StaudSoft's Synthetic World Beta
+price: 6.49
+
+Category of game: Action;Indie;RPG
+coefficient rating = 7
+-----
+Crash Drive 2
+price: 3.99
+
+Category of game: Action;Casual;Indie;Racing;Simulation
+coefficient rating = 524
+-----
+CroNix
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Strategy
+coefficient rating = 20
+-----
+Janky Tanks
+price: 3.99
+
+Category of game: Action;Indie;Racing;Early Access
+coefficient rating = 104
+-----
+Reign Of Kings
+price: 7.19
+
+Category of game: Action;Adventure;Indie;RPG;Simulation
+coefficient rating = 2079
+-----
+In Exilium
+price: 3.99
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 25
+-----
+SHOGUN: Total War™ - Collection
+price: 6.99
+
+Category of game: Action;Strategy
+coefficient rating = 149
+-----
+Medieval: Total War™ - Collection
+price: 6.99
+
+Category of game: Action;Strategy
+coefficient rating = 221
+-----
+Damned Nation Reborn
+price: 9.99
+
+Category of game: Action;Adventure;Indie;Strategy;Early Access
+coefficient rating = 44
+-----
+Boring Man - Online Tactical Stickman Combat
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer
+coefficient rating = 2996
+-----
+Martial Law
+price: 1.99
+
+Category of game: Action;Adventure;Indie;Simulation;Strategy;Early Access
+coefficient rating = 30
+-----
+BrainBread 2
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Early Access
+coefficient rating = 1273
+-----
+Toy Wars Invasion
+price: 8.99
+
+Category of game: Action;Indie
+coefficient rating = 287
+-----
+Sky Battles
+price: 1.69
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 199
+-----
+Undead Shadows
+price: 2.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 30879
+-----
+The Bluecoats: North vs South
+price: 3.99
+
+Category of game: Action;Strategy
+coefficient rating = 43
+-----
+Natural Soccer
+price: 6.99
+
+Category of game: Action;Indie;Sports
+coefficient rating = 18
+-----
+Street Arena
+price: 4.99
+
+Category of game: Action;Indie;Racing
+coefficient rating = 6
+-----
+RUMP! - It's a Jump and Rump!
+price: 6.99
+
+Category of game: Action;Casual;Indie;Racing
+coefficient rating = 37
+-----
+ORBIT
+price: 4.99
+
+Category of game: Action;Indie
+coefficient rating = 12
+-----
+Bierzerkers
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 80
+-----
+Beyond Sol
+price: 6.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 97
+-----
+Walkover
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 27
+-----
+Solar System Conflict
+price: 6.99
+
+Category of game: Action;Indie;Simulation;Strategy;Early Access
+coefficient rating = 19
+-----
+The Gate
+price: 0.0
+
+Category of game: Action;Free to Play;RPG
+coefficient rating = 55
+-----
+Scraps: Modular Vehicle Combat
+price: 9.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 66
+-----
+Dead Sea
+price: 3.99
+
+Category of game: Action;Adventure;Casual;Indie;Simulation;Early Access
+coefficient rating = 30
+-----
+Sandmason
+price: 2.79
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 40
+-----
+Streets of Fury EX
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 292
+-----
+Counter Spell
+price: 6.99
+
+Category of game: Action;Indie;RPG
+coefficient rating = 102
+-----
+SURVIVAL
+price: 5.79
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;Simulation;Early Access
+coefficient rating = 237
+-----
+Porcunipine
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 65
+-----
+The Indie Mixtape
+price: 6.99
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 14
+-----
+Giana Sisters: Dream Runners
+price: 7.99
+
+Category of game: Action;Indie;Racing
+coefficient rating = 2
+-----
+Better Late Than DEAD
+price: 3.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 2
+-----
+Chicken Invaders 5
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 419
+-----
+Time of Dragons
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;Simulation
+coefficient rating = 535
+-----
+Aberoth
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG
+coefficient rating = 272
+-----
+Miner Warfare
+price: 1.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 81
+-----
+TDP5 Arena 3D
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer
+coefficient rating = 3
+-----
+Geocore
+price: 1.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 6
+-----
+NEO AQUARIUM - The King of Crustaceans -
+price: 5.99
+
+Category of game: Action;Indie
+coefficient rating = 129
+-----
+Diesel Guns
+price: 5.79
+
+Category of game: Action;Indie;Racing;Early Access
+coefficient rating = 97
+-----
+METAL SLUG DEFENSE
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 1
+-----
+Drive!Drive!Drive!
+price: 7.19
+
+Category of game: Action;Indie;Racing
+coefficient rating = 21
+-----
+Soccer Rage
+price: 6.99
+
+Category of game: Action;Indie;Sports;Early Access
+coefficient rating = 484
+-----
+One More Line
+price: 2.09
+
+Category of game: Action;Casual;Indie
+coefficient rating = 83
+-----
+Break_In
+price: 6.99
+
+Category of game: Action;Massively Multiplayer;Strategy;Early Access
+coefficient rating = 10
+-----
+Rumble Fighter: Unleashed
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 13
+-----
+Project Explore
+price: 3.99
+
+Category of game: Action;Adventure;Casual;Indie;Simulation
+coefficient rating = 112
+-----
+Canabalt
+price: 1.99
+
+Category of game: Action;Indie
+coefficient rating = 146
+-----
+Choice Chamber
+price: 6.99
+
+Category of game: Action;Indie;Massively Multiplayer
+coefficient rating = 80
+-----
+Kiai Resonance
+price: 3.99
+
+Category of game: Action;Indie;Simulation
+coefficient rating = 106
+-----
+Spellsworn
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 586
+-----
+The Mean Greens - Plastic Warfare
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 3673
+-----
+Heaven Forest NIGHTS
+price: 0.79
+
+Category of game: Action;Adventure
+coefficient rating = 92
+-----
+Ice Cream Surfer
+price: 1.99
+
+Category of game: Action;Indie
+coefficient rating = 573
+-----
+Knight & Damsel
+price: 6.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 4
+-----
+STAR WARS™ X-Wing vs TIE Fighter - Balance of Power Campaigns™
+price: 7.19
+
+Category of game: Action;Simulation
+coefficient rating = 72
+-----
+Dog Fight
+price: 5.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 2
+-----
+Fighties
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 175
+-----
+D Series OFF ROAD Driving Simulation
+price: 5.99
+
+Category of game: Action;Casual;Indie;Racing;Simulation;Sports
+coefficient rating = 114
+-----
+Capsule Force
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 14
+-----
+Roguelands
+price: 7.19
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 1840
+-----
+Star Trek™: Starfleet Academy
+price: 6.99
+
+Category of game: Action;Adventure;Simulation
+coefficient rating = 35
+-----
+Star Trek: Starfleet Command Gold Edition
+price: 6.99
+
+Category of game: Action;Simulation;Strategy
+coefficient rating = 10
+-----
+Below Kryll
+price: 3.99
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 72
+-----
+GAROU: MARK OF THE WOLVES
+price: 6.99
+
+Category of game: Action
+coefficient rating = 16
+-----
+METAL SLUG
+price: 5.59
+
+Category of game: Action
+coefficient rating = 1041
+-----
+SHOCK TROOPERS
+price: 5.59
+
+Category of game: Action
+coefficient rating = 43
+-----
+TWINKLE STAR SPRITES
+price: 5.59
+
+Category of game: Action
+coefficient rating = 65
+-----
+Broken Bots
+price: 4.99
+
+Category of game: Action;Indie
+coefficient rating = 28
+-----
+Spy Bugs
+price: 6.99
+
+Category of game: Action;Massively Multiplayer;Early Access
+coefficient rating = 13
+-----
+Helena The 3rd
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 6
+-----
+3D Paraglider
+price: 1.59
+
+Category of game: Action;Simulation;Sports
+coefficient rating = 7
+-----
+100ft Robot Golf
+price: 7.19
+
+Category of game: Action;Indie;Sports
+coefficient rating = 47
+-----
+Almightree: The Last Dreamer
+price: 3.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 62
+-----
+Chronoclysm
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 77
+-----
+Megatect
+price: 5.59
+
+Category of game: Action;Casual;Indie;Simulation;Sports;Early Access
+coefficient rating = 23
+-----
+Lion Quest
+price: 8.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 5
+-----
+Gem Wars: Attack of the Jiblets
+price: 0.0
+
+Category of game: Action;Casual;Indie
+coefficient rating = 14
+-----
+Holodrive
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Early Access
+coefficient rating = 582
+-----
+Hostile Dimension
+price: 1.59
+
+Category of game: Action;Indie
+coefficient rating = 8
+-----
+Gunnheim
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 337
+-----
+Warriors & Castles
+price: 1.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 34
+-----
+Girl Amazon Survival
+price: 1.99
+
+Category of game: Action;Adventure;Indie;Simulation;Early Access
+coefficient rating = 4
+-----
+Shot In The Dark
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Early Access
+coefficient rating = 1244
+-----
+Hired Ops
+price: 6.99
+
+Category of game: Action;Early Access
+coefficient rating = 200
+-----
+Mactabilis
+price: 1.99
+
+Category of game: Action;Indie
+coefficient rating = 3
+-----
+Ember Strike
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Early Access
+coefficient rating = 639
+-----
+Death Tractor
+price: 0.79
+
+Category of game: Action;Casual;Indie;Simulation
+coefficient rating = 6
+-----
+Butsbal
+price: 1.99
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+Air Brawl
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 466
+-----
+CortexGear: AngryDroids
+price: 4.79
+
+Category of game: Action;Adventure;Indie;Strategy
+coefficient rating = 466
+-----
+Assault Corps 2
+price: 1.99
+
+Category of game: Action;Adventure;Casual;Indie;Massively Multiplayer;Racing;RPG;Simulation;Sports;Strategy
+coefficient rating = 9
+-----
+OVERGRAVITY
+price: 2.09
+
+Category of game: Action;Casual
+coefficient rating = 1747
+-----
+Unearned Bounty
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 96
+-----
+Western Press
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 58
+-----
+Chicken Invaders 3
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 105
+-----
+Mortos
+price: 0.79
+
+Category of game: Nudity;Violent;Gore;Action;Casual;Indie
+coefficient rating = 2
+-----
+Rebel Wings
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 9
+-----
+Fortify
+price: 3.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 43
+-----
+Nomad
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Early Access
+coefficient rating = 651
+-----
+Badland Bandits
+price: 0.0
+
+Category of game: Action;Massively Multiplayer;Racing;RPG;Simulation;Early Access
+coefficient rating = 651
+-----
+Nature's Zombie Apocalypse
+price: 9.99
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 26
+-----
+Sumo Revise
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 1
+-----
+Zombie Killtime
+price: 1.59
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 8
+-----
+Teeworlds
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 2689
+-----
+Eon Altar
+price: 3.99
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 478
+-----
+Lightrise™
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 4
+-----
+The Ship: Remasted
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 109
+-----
+Temporal Shift
+price: 6.99
+
+Category of game: Action;Simulation;Strategy;Early Access
+coefficient rating = 17
+-----
+Vengeance
+price: 7.19
+
+Category of game: Action;Indie;Strategy;Early Access
+coefficient rating = 98
+-----
+Jet Racing Extreme: The First Encounter
+price: 2.79
+
+Category of game: Action;Indie;Racing;Simulation;Sports
+coefficient rating = 465
+-----
+Crossout
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Racing
+coefficient rating = 6176
+-----
+HoD: On open seas
+price: 0.79
+
+Category of game: Action;Adventure;RPG;Strategy
+coefficient rating = 35
+-----
+SMITE®
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 25619
+-----
+Dungeons and Robots
+price: 6.19
+
+Category of game: Action;Indie;RPG;Early Access
+coefficient rating = 21
+-----
+Rake
+price: 3.99
+
+Category of game: Action;Adventure;Indie;Simulation
+coefficient rating = 1373
+-----
+Mold on Pizza 🍕
+price: 4.79
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 72
+-----
+Nova Blitz
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;Strategy
+coefficient rating = 60
+-----
+CATS!
+price: 6.99
+
+Category of game: Action;Adventure;Casual;Indie;Simulation;Strategy
+coefficient rating = 2
+-----
+Unnamed Fiasco
+price: 4.99
+
+Category of game: Action;Indie
+coefficient rating = 111
+-----
+Pocket Rumble
+price: 6.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 94
+-----
+Tic-Toc-Tower
+price: 2.09
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 25
+-----
+Knight Online
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 75
+-----
+Wild Animal Racing
+price: 2.99
+
+Category of game: Action;Casual;Indie;Racing;Simulation;Sports
+coefficient rating = 1387
+-----
+Garlock Online
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;Strategy;Early Access
+coefficient rating = 1387
+-----
+Tyler
+price: 1.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 2
+-----
+Acceleration of SUGURI 2
+price: 5.99
+
+Category of game: Action;Indie
+coefficient rating = 171
+-----
+Arclight Cascade
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 20
+-----
+DeathCrank
+price: 2.89
+
+Category of game: Action;Indie;Racing;Early Access
+coefficient rating = 3
+-----
+WARMODE
+price: 0.0
+
+Category of game: Action;Free to Play;Early Access
+coefficient rating = 2817
+-----
+Uebergame
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie
+coefficient rating = 19
+-----
+Macroboy Y
+price: 2.89
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 1
+-----
+WARSHIFT
+price: 9.99
+
+Category of game: Action;Indie;RPG;Strategy
+coefficient rating = 289
+-----
+World of Soccer online
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;Sports
+coefficient rating = 218
+-----
+Crazy Pixel Streaker
+price: 3.99
+
+Category of game: Action;Indie;Sports
+coefficient rating = 8
+-----
+Rogue Operatives Hide and Seek
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Early Access
+coefficient rating = 44
+-----
+RoShamBo
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;RPG;Sports;Early Access
+coefficient rating = 133
+-----
+Get Over Here
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 133
+-----
+Battleborn
+price: 0.0
+
+Category of game: Action
+coefficient rating = 2198
+-----
+Dance Magic
+price: 6.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 19
+-----
+Voxel Blast
+price: 8.99
+
+Category of game: Action;Indie
+coefficient rating = 112
+-----
+Scribbled Arena
+price: 5.99
+
+Category of game: Action;Indie;Massively Multiplayer;Early Access
+coefficient rating = 42
+-----
+The Rise of Chubtan
+price: 5.59
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+Anarchy Online
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Massively Multiplayer;RPG;Strategy
+coefficient rating = 63
+-----
+Ironkraft - Road to Hell
+price: 6.99
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 7
+-----
+Sphere III: Rage of the Devastator
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 7
+-----
+CTU: Counter Terrorism Unit
+price: 3.99
+
+Category of game: Action;Strategy
+coefficient rating = 188
+-----
+Carnivore Land
+price: 5.59
+
+Category of game: Action;Indie
+coefficient rating = 14
+-----
+Shadow Heroes: Vengeance In Flames
+price: 1.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 2
+-----
+Timberman
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 4789
+-----
+Goggles - World of Vaporia
+price: 5.59
+
+Category of game: Action;Adventure;Casual;Indie;Racing
+coefficient rating = 2
+-----
+War of Beach
+price: 0.0
+
+Category of game: Action;Free to Play;Simulation;Strategy
+coefficient rating = 70
+-----
+Straima
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 38
+-----
+Atari Vault
+price: 6.99
+
+Category of game: Action;Adventure;Casual;Racing;RPG;Sports;Strategy
+coefficient rating = 253
+-----
+WarpBall
+price: 6.99
+
+Category of game: Action;Indie;Sports;Early Access
+coefficient rating = 3
+-----
+Anode
+price: 2.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 49
+-----
+Dinosaur Hunt
+price: 0.79
+
+Category of game: Action;Adventure;Indie;Simulation
+coefficient rating = 875
+-----
+Hypatia
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Massively Multiplayer
+coefficient rating = 10
+-----
+Lift It
+price: 3.99
+
+Category of game: Action;Adventure;Casual;Indie;Simulation;Sports
+coefficient rating = 41
+-----
+Cloudrift
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 20
+-----
+Klepto
+price: 9.99
+
+Category of game: Action;Indie;Simulation;Early Access
+coefficient rating = 331
+-----
+Dexterity Ball 3D™
+price: 4.99
+
+Category of game: Action;Indie;Racing
+coefficient rating = 51
+-----
+Black & White Bushido
+price: 9.99
+
+Category of game: Action
+coefficient rating = 58
+-----
+Voxel Turf
+price: 5.59
+
+Category of game: Action;Indie;Simulation;Strategy
+coefficient rating = 221
+-----
+Charlie Murder
+price: 6.99
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 281
+-----
+Perfect Universe - Play with Gravity
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 50
+-----
+Astral Breakers
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 4
+-----
+Gnomes Vs. Fairies: Greckel's Quest
+price: 7.19
+
+Category of game: Action;Adventure;Casual;Indie;RPG
+coefficient rating = 37
+-----
+DesertLand 2115
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 37
+-----
+Lighthockey
+price: 1.59
+
+Category of game: Action;Casual;Indie;Sports
+coefficient rating = 7
+-----
+Crush Your Enemies
+price: 6.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 199
+-----
+Epic Showdown
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 28
+-----
+Dub Dash
+price: 3.99
+
+Category of game: Action;Indie;Racing
+coefficient rating = 88
+-----
+Swarm Universe
+price: 5.79
+
+Category of game: Action;Indie
+coefficient rating = 19
+-----
+Raiden Legacy - Steam Edition
+price: 6.99
+
+Category of game: Action
+coefficient rating = 3
+-----
+Indie Game Battle
+price: 3.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 3
+-----
+Space Overlords
+price: 5.59
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 591
+-----
+Guardians of Orion (Phase 1)
+price: 0.79
+
+Category of game: Action;Indie;RPG
+coefficient rating = 438
+-----
+UniBall
+price: 0.0
+
+Category of game: Action;Indie;Sports
+coefficient rating = 133
+-----
+Perraw - FPS Clone War Alpha
+price: 0.79
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 36
+-----
+Clumsy Moose Season
+price: 7.19
+
+Category of game: Action;Adventure;Casual;Indie;Racing;Simulation;Sports
+coefficient rating = 10
+-----
+Genesis Online
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 18
+-----
+Elements: Epic Heroes
+price: 4.99
+
+Category of game: Action;Massively Multiplayer;RPG
+coefficient rating = 8
+-----
+Men of Valor
+price: 8.99
+
+Category of game: Action
+coefficient rating = 86
+-----
+BATTLECREW™ Space Pirates
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 15
+-----
+Hybrid Wars
+price: 5.19
+
+Category of game: Action
+coefficient rating = 54
+-----
+Metal War Online: Retribution
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Racing;Early Access
+coefficient rating = 77
+-----
+Drift Streets Japan
+price: 1.69
+
+Category of game: Action;Indie;Massively Multiplayer;Racing;Simulation;Sports
+coefficient rating = 922
+-----
+Mytheon
+price: 6.99
+
+Category of game: Action;Adventure;RPG
+coefficient rating = 17
+-----
+Rocket Fist
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 52
+-----
+Crashnauts
+price: 6.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 29
+-----
+Death Toll
+price: 0.79
+
+Category of game: Violent;Gore;Action;Indie
+coefficient rating = 46
+-----
+Corgi Warlock
+price: 1.69
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 150
+-----
+Pang Adventures
+price: 6.99
+
+Category of game: Action
+coefficient rating = 101
+-----
+Tiger Knight
+price: 0.0
+
+Category of game: Violent;Action;Free to Play;Massively Multiplayer;Strategy
+coefficient rating = 307
+-----
+Bugspeed Collider
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 3
+-----
+CLASH
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Strategy
+coefficient rating = 19
+-----
+The Final Frontier: Space Simulator
+price: 0.79
+
+Category of game: Action;Adventure;Massively Multiplayer;Simulation;Early Access
+coefficient rating = 5
+-----
+Gun Bombers
+price: 5.59
+
+Category of game: Action;Indie
+coefficient rating = 30
+-----
+Space Impossible
+price: 6.99
+
+Category of game: Action;Adventure;Indie;Early Access
+coefficient rating = 64
+-----
+5 Minutes Rage
+price: 4.99
+
+Category of game: Action;Indie;Sports
+coefficient rating = 11
+-----
+Astral Gun
+price: 1.59
+
+Category of game: Action;Casual;Indie
+coefficient rating = 8
+-----
+Apotheon Arena
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 592
+-----
+Street Warriors Online
+price: 1.59
+
+Category of game: Violent;Action;Massively Multiplayer;Simulation;Sports
+coefficient rating = 232
+-----
+Strength of the Sword ULTIMATE
+price: 7.19
+
+Category of game: Action;Indie;RPG;Early Access
+coefficient rating = 15
+-----
+Super Arcade Football
+price: 6.99
+
+Category of game: Action;Indie;Sports;Early Access
+coefficient rating = 63
+-----
+Elite vs. Freedom
+price: 3.99
+
+Category of game: Violent;Action;Indie
+coefficient rating = 74
+-----
+StarBreak
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer
+coefficient rating = 507
+-----
+Mech Anarchy
+price: 5.79
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 7
+-----
+Super Robot Jump Jump
+price: 3.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 19
+-----
+Hyper Gods
+price: 5.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 9
+-----
+Marooners
+price: 7.19
+
+Category of game: Action;Casual;Indie
+coefficient rating = 221
+-----
+Bell Ringer
+price: 4.99
+
+Category of game: Action;Indie
+coefficient rating = 7
+-----
+ScudBuster
+price: 3.99
+
+Category of game: Action
+coefficient rating = 1
+-----
+Assassins vs Pirates
+price: 5.59
+
+Category of game: Action;Casual;Indie
+coefficient rating = 47
+-----
+GoatPunks
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 10
+-----
+Miner Meltdown
+price: 4.99
+
+Category of game: Action;Indie
+coefficient rating = 70
+-----
+Tyran
+price: 4.79
+
+Category of game: Action;Indie;RPG;Strategy;Early Access
+coefficient rating = 1
+-----
+Bubsy Two-Fur
+price: 3.99
+
+Category of game: Action;Adventure
+coefficient rating = 137
+-----
+Moonshot
+price: 3.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 66
+-----
+Who's Your Daddy
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 6004
+-----
+Swift
+price: 4.79
+
+Category of game: Action;Indie
+coefficient rating = 4
+-----
+Hauntsters
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+CONTASION 2
+price: 4.99
+
+Category of game: Action;Indie;Massively Multiplayer
+coefficient rating = 6
+-----
+Lupinball
+price: 6.99
+
+Category of game: Action;Casual;Indie;Sports;Strategy
+coefficient rating = 53
+-----
+Mushroom Wars
+price: 6.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 209
+-----
+Clash of the Monsters
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 2
+-----
+Grenade Madness
+price: 6.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 17
+-----
+Mimic Arena
+price: 5.59
+
+Category of game: Action;Casual;Indie
+coefficient rating = 8
+-----
+Special Tactics
+price: 3.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 28
+-----
+BlackShot: Mercenary Warfare FPS
+price: 0.0
+
+Category of game: Action;Casual;Free to Play
+coefficient rating = 76
+-----
+Z1 Battle Royale
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Massively Multiplayer
+coefficient rating = 19770
+-----
+Masked Shooters 2
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 590
+-----
+Pixel Z - Gun Day
+price: 0.79
+
+Category of game: Action;Adventure;Casual;Indie;Massively Multiplayer;Simulation
+coefficient rating = 110
+-----
+Blood and Bacon
+price: 0.79
+
+Category of game: Action;Adventure;Casual
+coefficient rating = 15827
+-----
+Half Dead
+price: 1.59
+
+Category of game: Action;Adventure
+coefficient rating = 1614
+-----
+Planet 1138
+price: 1.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 7
+-----
+Spacelords
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Strategy
+coefficient rating = 22
+-----
+Line of Sight
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer
+coefficient rating = 1165
+-----
+Bullshot
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 150
+-----
+Stellar Stars
+price: 6.99
+
+Category of game: Action;RPG;Strategy
+coefficient rating = 1109
+-----
+Toys of War
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 6
+-----
+SQUIDS FROM SPACE
+price: 2.09
+
+Category of game: Action;Casual;Indie;Strategy;Early Access
+coefficient rating = 143
+-----
+Surfingers
+price: 1.59
+
+Category of game: Action;Casual;Indie
+coefficient rating = 339
+-----
+LILT
+price: 3.99
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 5
+-----
+Shepherds of the Abyss
+price: 4.79
+
+Category of game: Action;Indie;RPG;Strategy
+coefficient rating = 3
+-----
+Midair
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer
+coefficient rating = 70
+-----
+Of Carrots And Blood
+price: 2.09
+
+Category of game: Action;Casual;Indie
+coefficient rating = 46
+-----
+Risky Rescue
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 186
+-----
+Overpower
+price: 5.99
+
+Category of game: Action;Indie;RPG;Early Access
+coefficient rating = 29
+-----
+Survival Zombies The Inverted Evolution
+price: 3.99
+
+Category of game: Action;Adventure;Indie;Simulation
+coefficient rating = 125
+-----
+1943 Megami Strike
+price: 5.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 21
+-----
+Mount Your Friends 3D: A Hard Man is Good to Climb
+price: 5.19
+
+Category of game: Action;Indie;Simulation;Sports
+coefficient rating = 145
+-----
+Fragmented
+price: 6.99
+
+Category of game: Action;Indie;RPG
+coefficient rating = 57
+-----
+Iron Madness
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Racing;Simulation;Sports;Early Access
+coefficient rating = 5
+-----
+Vega Tank
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 2
+-----
+Armored Warfare
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Massively Multiplayer;Simulation;Strategy
+coefficient rating = 163
+-----
+Ruckus Ridge VR Party
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 17
+-----
+Paladins®
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 137173
+-----
+Techwars Online
+price: 3.99
+
+Category of game: Action;Indie;Massively Multiplayer;Strategy
+coefficient rating = 39
+-----
+SpellKnights
+price: 0.0
+
+Category of game: Action;Free to Play;Early Access
+coefficient rating = 204
+-----
+Super Impossible Road
+price: 9.99
+
+Category of game: Action;Indie;Racing;Early Access
+coefficient rating = 70
+-----
+Death Stair
+price: 1.69
+
+Category of game: Action;Casual;Indie;Racing;Sports
+coefficient rating = 70
+-----
+Zaccaria Pinball
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Simulation;Sports;Early Access
+coefficient rating = 224
+-----
+Toy Plane Heroes
+price: 6.99
+
+Category of game: Action;Indie;Racing
+coefficient rating = 29
+-----
+Corroded
+price: 9.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 61
+-----
+Red Risk
+price: 0.79
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 96
+-----
+AsteroidsHD
+price: 0.79
+
+Category of game: Action;Casual;Indie;Simulation;Early Access
+coefficient rating = 28
+-----
+Hybrid Animals
+price: 4.99
+
+Category of game: Action;Casual;Indie;Simulation
+coefficient rating = 62
+-----
+Draw Rider
+price: 1.69
+
+Category of game: Action;Indie;Racing
+coefficient rating = 50
+-----
+VirZOOM Arcade
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Indie;Racing;Sports
+coefficient rating = 19
+-----
+Wincars Racer
+price: 8.99
+
+Category of game: Action;Indie;Racing;Early Access
+coefficient rating = 3
+-----
+Rocket Shooter
+price: 4.99
+
+Category of game: Action;Sports
+coefficient rating = 11
+-----
+One Clone Left
+price: 5.59
+
+Category of game: Violent;Action;Indie
+coefficient rating = 2
+-----
+Frederic: Resurrection of Music Director's Cut
+price: 4.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 156
+-----
+Madness Cubed
+price: 1.69
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;Simulation
+coefficient rating = 163
+-----
+Voxel Warfare Online
+price: 3.99
+
+Category of game: Action;Adventure;Casual;Indie;Early Access
+coefficient rating = 88
+-----
+CrazyCars3D
+price: 1.99
+
+Category of game: Action;Adventure;Casual;Indie;Racing;Simulation
+coefficient rating = 65
+-----
+The HinterLands
+price: 1.99
+
+Category of game: Action;Adventure;Indie;RPG;Early Access
+coefficient rating = 206
+-----
+YamaYama
+price: 6.99
+
+Category of game: Action;Casual;Indie;Sports
+coefficient rating = 8
+-----
+FrightShow Fighter
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 10
+-----
+ZOMBIE TOWN AHHH
+price: 2.79
+
+Category of game: Action;Indie;RPG;Early Access
+coefficient rating = 1
+-----
+Dual Core
+price: 6.99
+
+Category of game: Action;Indie;RPG
+coefficient rating = 14
+-----
+StarsOne
+price: 6.99
+
+Category of game: Action;Indie;Massively Multiplayer;Early Access
+coefficient rating = 204
+-----
+Plastic Playground
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 51
+-----
+The Slimeking's Tower
+price: 4.99
+
+Category of game: Action;Adventure;Indie;RPG;Early Access
+coefficient rating = 35
+-----
+Auto Age: Standoff
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 45
+-----
+Battlesloths 2025: The Great Pizza Wars
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 42
+-----
+Final Days
+price: 5.49
+
+Category of game: Action;Casual;Indie
+coefficient rating = 36
+-----
+Roll'd
+price: 0.79
+
+Category of game: Action;Casual;Indie;Racing
+coefficient rating = 136
+-----
+PICO PARK
+price: 3.99
+
+Category of game: Action;Casual
+coefficient rating = 15
+-----
+Massive
+price: 7.19
+
+Category of game: Action;Adventure;Indie;Early Access
+coefficient rating = 42
+-----
+Protonwar
+price: 7.19
+
+Category of game: Violent;Gore;Action;Indie
+coefficient rating = 48
+-----
+Blaite
+price: 0.79
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 124
+-----
+Boiling Bolt
+price: 9.29
+
+Category of game: Action;Indie
+coefficient rating = 5
+-----
+Taekwondo Grand Prix
+price: 7.19
+
+Category of game: Action;Sports
+coefficient rating = 23
+-----
+Hero Battle
+price: 5.19
+
+Category of game: Action;Massively Multiplayer
+coefficient rating = 47
+-----
+Super Blue Fighter
+price: 0.0
+
+Category of game: Action;Casual;Indie
+coefficient rating = 55
+-----
+Initia: Elemental Arena
+price: 8.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 8
+-----
+Uprising: Join or Die
+price: 4.99
+
+Category of game: Action;Strategy
+coefficient rating = 33
+-----
+Aplowcalypse
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 19
+-----
+Heroes Tactics
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;RPG;Strategy
+coefficient rating = 37
+-----
+THE LAST BLADE
+price: 6.99
+
+Category of game: Action
+coefficient rating = 43
+-----
+SHOCK TROOPERS 2nd Squad
+price: 5.59
+
+Category of game: Action
+coefficient rating = 3
+-----
+Deceit
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 12634
+-----
+Ghost Croquet
+price: 5.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 14
+-----
+Can't Drive This
+price: 6.99
+
+Category of game: Action;Casual;Indie;Racing;Early Access
+coefficient rating = 122
+-----
+God of Word
+price: 3.99
+
+Category of game: Action;Casual;Indie;RPG
+coefficient rating = 40
+-----
+Trapper's Delight
+price: 6.99
+
+Category of game: Action;Casual;Strategy
+coefficient rating = 115
+-----
+Splody
+price: 4.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 61
+-----
+Zero G Arena
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 623
+-----
+HIVE: Altenum Wars
+price: 7.99
+
+Category of game: Action;Indie
+coefficient rating = 30
+-----
+Arkshot
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 68
+-----
+Spellgear
+price: 0.0
+
+Category of game: Action;Indie;RPG
+coefficient rating = 23
+-----
+Rocketbirds 2 Evolution
+price: 6.99
+
+Category of game: Violent;Action;Adventure;Indie
+coefficient rating = 141
+-----
+Angel Express [Tokkyu Tenshi]
+price: 6.99
+
+Category of game: Action;Adventure;Indie;Racing
+coefficient rating = 17
+-----
+VERSUS SQUAD
+price: 5.99
+
+Category of game: Action;Indie
+coefficient rating = 301
+-----
+Rec Room
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Massively Multiplayer;Sports;Early Access
+coefficient rating = 3206
+-----
+Killbot
+price: 0.79
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;Simulation
+coefficient rating = 6
+-----
+The Nest
+price: 0.0
+
+Category of game: Action;Indie;Simulation;Sports;Early Access
+coefficient rating = 51
+-----
+Airship Asunder
+price: 6.99
+
+Category of game: Action;Adventure;Indie;Simulation;Strategy
+coefficient rating = 10
+-----
+BATTLE PIXEL'S SURVIVAL GROUND
+price: 0.79
+
+Category of game: Action;Adventure;Casual;Indie;Massively Multiplayer;Simulation
+coefficient rating = 4360
+-----
+Uncrewed
+price: 8.99
+
+Category of game: Action;Strategy;Early Access
+coefficient rating = 33
+-----
+Go Go Electric Samurai
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 11
+-----
+Strike Vector EX
+price: 8.99
+
+Category of game: Action;Indie
+coefficient rating = 387
+-----
+Shard Games
+price: 5.59
+
+Category of game: Action;Indie;Simulation;Sports;Early Access
+coefficient rating = 14
+-----
+Pirates of the Polygon Sea
+price: 6.19
+
+Category of game: Action;Adventure;Indie;Strategy
+coefficient rating = 50
+-----
+Drunk Wizards
+price: 5.59
+
+Category of game: Action;Indie
+coefficient rating = 3
+-----
+Dogfight Elite
+price: 2.09
+
+Category of game: Action;Indie;Massively Multiplayer;Simulation;Strategy;Early Access
+coefficient rating = 5
+-----
+Guns N' Boxes
+price: 6.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 20
+-----
+VRZ: Torment
+price: 7.19
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 96
+-----
+Head Shot
+price: 1.59
+
+Category of game: Action;Adventure;Casual;Indie;Early Access
+coefficient rating = 6
+-----
+Mad Combat Marines
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 123
+-----
+Ball 3D: Soccer Online
+price: 0.0
+
+Category of game: Action;Free to Play;Sports
+coefficient rating = 1427
+-----
+JOLT: Super Robot Racer
+price: 4.79
+
+Category of game: Action;Racing;Early Access
+coefficient rating = 5
+-----
+Square Arena
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 12
+-----
+Totally Unbalanced
+price: 2.09
+
+Category of game: Action;Adventure;Casual;Indie;Racing
+coefficient rating = 57
+-----
+Hat Trick Header
+price: 4.99
+
+Category of game: Action;Casual;Sports
+coefficient rating = 10
+-----
+Angeldust
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;RPG;Early Access
+coefficient rating = 285
+-----
+Minion Masters
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Strategy;Early Access
+coefficient rating = 11582
+-----
+Conga Master
+price: 7.99
+
+Category of game: Action;Indie
+coefficient rating = 37
+-----
+Take Thy Throne
+price: 1.59
+
+Category of game: Action;Adventure;Casual;Indie;Massively Multiplayer;Strategy
+coefficient rating = 48
+-----
+Drift Horizon Online
+price: 3.99
+
+Category of game: Action;Racing;Simulation;Sports
+coefficient rating = 48
+-----
+Assault on the Necrospire
+price: 3.99
+
+Category of game: Action;Indie;RPG
+coefficient rating = 8
+-----
+VR Battle Grid
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Simulation;Strategy
+coefficient rating = 39
+-----
+Woodle Tree 2: Worlds
+price: 2.79
+
+Category of game: Action;Adventure;Massively Multiplayer
+coefficient rating = 110
+-----
+Divided We Fall: Play For Free
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Strategy
+coefficient rating = 13
+-----
+Asteroid Fight
+price: 9.29
+
+Category of game: Action;Indie;Strategy;Early Access
+coefficient rating = 9
+-----
+M.EXE
+price: 4.99
+
+Category of game: Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access
+coefficient rating = 19
+-----
+Noob Squad
+price: 0.75
+
+Category of game: Action;Indie
+coefficient rating = 10
+-----
+Zezenia Online
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG
+coefficient rating = 83
+-----
+Destiny of Ancient Kingdoms™
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Massively Multiplayer;RPG;Strategy
+coefficient rating = 5
+-----
+Mushroom Crusher Extreme
+price: 5.59
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 3
+-----
+Shards of Azuria
+price: 3.99
+
+Category of game: Action;Adventure;Indie;RPG;Early Access
+coefficient rating = 26
+-----
+Way of Redemption
+price: 5.19
+
+Category of game: Action;Indie;Sports
+coefficient rating = 24
+-----
+SoulHunt
+price: 5.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 37
+-----
+Wild Terra Online
+price: 0.0
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;RPG
+coefficient rating = 262
+-----
+Strike.is: The Game
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer
+coefficient rating = 654
+-----
+Gunnihilation
+price: 6.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 13
+-----
+Samurai Wars
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 7
+-----
+Hurricane
+price: 0.79
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;RPG;Early Access
+coefficient rating = 24
+-----
+White Noise 2
+price: 6.99
+
+Category of game: Action;Adventure;Indie;Strategy
+coefficient rating = 1399
+-----
+Gangs of Space
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;RPG;Early Access
+coefficient rating = 198
+-----
+Battlerite
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 33067
+-----
+The God's Chain
+price: 5.59
+
+Category of game: Action
+coefficient rating = 47
+-----
+Dinosaur Forest
+price: 1.59
+
+Category of game: Action;Indie
+coefficient rating = 51
+-----
+BlackSmith HIT
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 224
+-----
+MiniBotz
+price: 7.19
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 4
+-----
+Sneak Thief
+price: 7.99
+
+Category of game: Action;Indie;Strategy;Early Access
+coefficient rating = 168
+-----
+Rollout
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Early Access
+coefficient rating = 5
+-----
+Riding Club Championships
+price: 0.0
+
+Category of game: Action;Free to Play;Racing;Sports
+coefficient rating = 143
+-----
+Super Grav
+price: 6.99
+
+Category of game: Action;Adventure;Indie;Racing
+coefficient rating = 10
+-----
+Worldy Cup
+price: 3.99
+
+Category of game: Action;Indie;Sports;Early Access
+coefficient rating = 10
+-----
+Super Destronaut
+price: 1.59
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 30
+-----
+Recession
+price: 1.69
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 6
+-----
+Evolvation
+price: 6.99
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Simulation
+coefficient rating = 345
+-----
+ONRAID
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;Strategy
+coefficient rating = 921
+-----
+Tank Defense Division
+price: 6.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 93
+-----
+Trickster VR: Co-op Dungeon Crawler
+price: 9.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 313
+-----
+Zombie Estate 2
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 258
+-----
+Pan-Dimensional Conga Combat
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 11
+-----
+KUBOOM
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Massively Multiplayer
+coefficient rating = 7
+-----
+Intralism
+price: 1.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 1579
+-----
+Hunger Dungeon
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 1036
+-----
+So Many Cubes
+price: 1.59
+
+Category of game: Action;Casual;Strategy;Early Access
+coefficient rating = 11
+-----
+Friday Night Bullet Arena
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 6
+-----
+Panzer Warfare
+price: 1.59
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Simulation;Strategy;Early Access
+coefficient rating = 23
+-----
+Gun Brothers
+price: 7.19
+
+Category of game: Action;Adventure;Indie;Early Access
+coefficient rating = 9
+-----
+Outbreak
+price: 6.99
+
+Category of game: Violent;Gore;Action;Adventure;Indie;RPG
+coefficient rating = 13
+-----
+Orake 2D MMORPG
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Strategy
+coefficient rating = 240
+-----
+Fat Mask
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 14
+-----
+POLYCRUSHER
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 7
+-----
+Tank Tread
+price: 6.99
+
+Category of game: Action;Strategy
+coefficient rating = 60
+-----
+Drop Out 0
+price: 1.69
+
+Category of game: Action;Indie
+coefficient rating = 7
+-----
+Cowbots and Aliens
+price: 9.29
+
+Category of game: Action;Adventure;Casual;Indie;Early Access
+coefficient rating = 69
+-----
+Crate Punks
+price: 1.59
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+Next Day: Survival
+price: 8.99
+
+Category of game: Action;Indie;RPG
+coefficient rating = 2361
+-----
+INTERSHELTER
+price: 0.0
+
+Category of game: Action;Indie;Massively Multiplayer;Early Access
+coefficient rating = 399
+-----
+Impulse of War
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;Racing;Simulation;Early Access
+coefficient rating = 147
+-----
+FeArea
+price: 0.0
+
+Category of game: Action;Indie;Massively Multiplayer;Simulation
+coefficient rating = 28
+-----
+Blind Blades
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 4
+-----
+When It Hits the Fan
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 7
+-----
+Mayhem ZX
+price: 4.79
+
+Category of game: Violent;Gore;Action;Indie;Early Access
+coefficient rating = 6
+-----
+Footbrawl Playground
+price: 4.79
+
+Category of game: Action;Casual;Indie;Sports;Early Access
+coefficient rating = 10
+-----
+Techwars: Global Conflict
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;Strategy
+coefficient rating = 31
+-----
+Breaking Fast
+price: 6.99
+
+Category of game: Action;Casual;Indie;Racing
+coefficient rating = 24
+-----
+TileDynasty FPS Arena
+price: 0.79
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 1
+-----
+DANGEROUS DUELS
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 8
+-----
+8infinity
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 81
+-----
+SQUAKE
+price: 2.79
+
+Category of game: Action;Casual;Indie;Racing;Sports
+coefficient rating = 69
+-----
+DOPAMINE
+price: 2.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 2
+-----
+Containment Initiative
+price: 6.99
+
+Category of game: Action
+coefficient rating = 55
+-----
+Evil Orbs
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 7
+-----
+bob's game
+price: 0.0
+
+Category of game: Action;Casual;Indie
+coefficient rating = 25
+-----
+Eve of Destruction - REDUX VIETNAM
+price: 7.99
+
+Category of game: Action;Adventure;Casual;Indie;Massively Multiplayer;Simulation;Strategy
+coefficient rating = 20
+-----
+Slymes
+price: 3.99
+
+Category of game: Action;Casual;Indie;Massively Multiplayer
+coefficient rating = 3
+-----
+Argo
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 3
+-----
+The Art of Fight | 4vs4 Fast-Paced FPS
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 131
+-----
+Polygod
+price: 2.09
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 90
+-----
+Fight Me Bro!
+price: 1.69
+
+Category of game: Action;Indie
+coefficient rating = 3
+-----
+"Fire in the Goal ""轰个球"""
+price: 3.99
+
+Category of game: Action;Casual;Indie;Sports;Early Access
+coefficient rating = 32
+-----
+Nemesis Perspective
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 35
+-----
+Feel The Snow
+price: 5.99
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Early Access
+coefficient rating = 1218
+-----
+Son of a Witch
+price: 9.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 134
+-----
+Space Cat
+price: 3.99
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 10
+-----
+Imprisoned Light
+price: 0.79
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 60
+-----
+Starfighter Arduxim
+price: 2.89
+
+Category of game: Action;Indie;Simulation
+coefficient rating = 7
+-----
+TZOMPANTLI
+price: 7.19
+
+Category of game: Nudity;Violent;Action;Indie;Early Access
+coefficient rating = 5
+-----
+Power Overwhelming Prologue
+price: 1.99
+
+Category of game: Action;Adventure;Casual;Indie;Early Access
+coefficient rating = 3
+-----
+ARC Continuum
+price: 6.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 43
+-----
+Darwin Project
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Early Access
+coefficient rating = 7396
+-----
+Bloody Boobs
+price: 3.19
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 4
+-----
+Rise High
+price: 2.09
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+Brief Karate Foolish
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie
+coefficient rating = 1899
+-----
+Operation Breakout
+price: 5.99
+
+Category of game: Action;Adventure;Massively Multiplayer
+coefficient rating = 8
+-----
+Machine Hunt
+price: 1.99
+
+Category of game: Action;Indie
+coefficient rating = 25
+-----
+Alien Invasion Tower Defense
+price: 1.59
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 12
+-----
+Celestial Breach
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 6
+-----
+Foreveracers
+price: 3.99
+
+Category of game: Action;Casual;Indie;Racing;Sports
+coefficient rating = 17
+-----
+NightZ
+price: 0.79
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 3
+-----
+One Of The Last
+price: 5.79
+
+Category of game: Violent;Gore;Action;Adventure;Casual;Indie;Strategy
+coefficient rating = 15
+-----
+Black Squad
+price: 0.0
+
+Category of game: Action;Free to Play;Early Access
+coefficient rating = 22614
+-----
+Metin2
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 1785
+-----
+Virtual Army: Revolution
+price: 9.9
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 45
+-----
+Blowhards
+price: 6.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 4
+-----
+World of Warships
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Simulation
+coefficient rating = 5719
+-----
+Masky
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 50
+-----
+Pavlov VR
+price: 6.99
+
+Category of game: Violent;Gore;Action;Indie;Early Access
+coefficient rating = 2597
+-----
+Absoloot
+price: 3.19
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 18
+-----
+Robot City Stadium
+price: 6.99
+
+Category of game: Action;Casual;Indie;Sports;Early Access
+coefficient rating = 8
+-----
+Masked Forces
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 111
+-----
+Vecitas
+price: 5.59
+
+Category of game: Action;Casual;Indie;Massively Multiplayer
+coefficient rating = 111
+-----
+Neptune: Arena FPS
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 23
+-----
+99Vidas
+price: 9.99
+
+Category of game: Action;Indie
+coefficient rating = 241
+-----
+Giants: Citizen Kabuto
+price: 6.99
+
+Category of game: Violent;Action;Adventure;RPG
+coefficient rating = 36
+-----
+I was rebuilt
+price: 3.99
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 5
+-----
+MapleStory 2
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG;Simulation
+coefficient rating = 3393
+-----
+Armor Clash II [RTS]
+price: 6.99
+
+Category of game: Action;Simulation;Strategy
+coefficient rating = 22
+-----
+The Wizards Who Fell In A Hole
+price: 1.59
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 6
+-----
+Paintball 707
+price: 3.99
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Simulation;Sports
+coefficient rating = 6
+-----
+Graveball
+price: 3.99
+
+Category of game: Action;Indie;Sports
+coefficient rating = 9
+-----
+Necroball
+price: 5.59
+
+Category of game: Action;Casual;Indie;RPG;Sports;Strategy;Early Access
+coefficient rating = 9
+-----
+Alien Swarm: Reactive Drop
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 7102
+-----
+Force of Nature
+price: 5.79
+
+Category of game: Action;Adventure;Indie;RPG;Simulation;Strategy
+coefficient rating = 1033
+-----
+Island Racer
+price: 3.99
+
+Category of game: Action;Casual;Indie;Racing;Simulation;Sports
+coefficient rating = 1
+-----
+RoboCritters
+price: 0.79
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 3
+-----
+Street of Sanctuary VR
+price: 1.99
+
+Category of game: Action;Indie
+coefficient rating = 20
+-----
+TUNNEL DIVERS
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 90
+-----
+MageQuit
+price: 6.99
+
+Category of game: Action;Indie;Sports;Strategy;Early Access
+coefficient rating = 61
+-----
+Dropzone
+price: 0.0
+
+Category of game: Action;Free to Play;Strategy;Early Access
+coefficient rating = 314
+-----
+Fog of War
+price: 3.99
+
+Category of game: Violent;Gore;Action;Indie;Massively Multiplayer;RPG;Simulation;Strategy
+coefficient rating = 34
+-----
+Mighty Party
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Massively Multiplayer;RPG;Strategy
+coefficient rating = 346
+-----
+Blood Feed
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 96
+-----
+Q.U.I.R.K.™
+price: 0.0
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Sports;Early Access
+coefficient rating = 15
+-----
+SCALPERS: Turtle & the Moonshine Gang
+price: 6.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 19
+-----
+Draw The Way
+price: 4.79
+
+Category of game: Action;Indie
+coefficient rating = 15
+-----
+Ignition
+price: 6.99
+
+Category of game: Action;Racing;Sports
+coefficient rating = 50
+-----
+Formata
+price: 9.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 160
+-----
+Super Stone Legacy
+price: 5.79
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 18
+-----
+Iron Armada
+price: 0.0
+
+Category of game: Action;Casual;Strategy;Early Access
+coefficient rating = 75
+-----
+Zombie Killin'
+price: 1.59
+
+Category of game: Action;Casual;Indie
+coefficient rating = 5
+-----
+We Were Here
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play
+coefficient rating = 7837
+-----
+Castle of Shikigami 式神の城
+price: 8.99
+
+Category of game: Action
+coefficient rating = 3
+-----
+1-2-Swift
+price: 1.99
+
+Category of game: Action;Adventure;Casual;Simulation
+coefficient rating = 2
+-----
+Switchblade
+price: 0.0
+
+Category of game: Action;Free to Play;Early Access
+coefficient rating = 44
+-----
+Project Shield
+price: 0.79
+
+Category of game: Action;Casual;Early Access
+coefficient rating = 5
+-----
+MadOut2 BigCityOnline
+price: 0.0
+
+Category of game: Action;Indie;Racing;Simulation;Sports
+coefficient rating = 187
+-----
+Deadly Animal Duel
+price: 0.79
+
+Category of game: Action;Casual
+coefficient rating = 7
+-----
+BrotherZ
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 3166
+-----
+Draw Rider 2
+price: 3.99
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;Racing;Simulation
+coefficient rating = 17
+-----
+Panzer Panic VR
+price: 6.99
+
+Category of game: Action;Casual
+coefficient rating = 2
+-----
+Catch a Lover
+price: 4.99
+
+Category of game: Action;Indie
+coefficient rating = 21
+-----
+The Frontier Outskirts VR
+price: 7.19
+
+Category of game: Action;Adventure;Indie;Simulation
+coefficient rating = 1651
+-----
+Vectonic
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 3
+-----
+BREACH IT
+price: 0.99
+
+Category of game: Action;Indie;Strategy;Early Access
+coefficient rating = 20
+-----
+SmuggleCraft
+price: 7.19
+
+Category of game: Action;Adventure;Indie;Racing;Sports
+coefficient rating = 18
+-----
+Deadly Hunter VR
+price: 0.0
+
+Category of game: Action;Adventure;RPG;Simulation;Sports;Strategy
+coefficient rating = 147
+-----
+An Oath to the Stars
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 3
+-----
+Prevent The Fall
+price: 6.99
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 22
+-----
+Cold Space
+price: 4.79
+
+Category of game: Gore;Action;Indie
+coefficient rating = 63
+-----
+Sky Knights
+price: 6.99
+
+Category of game: Action;Indie;Strategy;Early Access
+coefficient rating = 275
+-----
+Gas Guzzlers: Combat Carnage
+price: 3.99
+
+Category of game: Action;Racing
+coefficient rating = 34
+-----
+Hyper Knights
+price: 3.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 406
+-----
+I'm Titanium
+price: 4.99
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 1
+-----
+Stupid Raft Battle Simulator
+price: 4.79
+
+Category of game: Action;Casual;Indie;Simulation;Strategy;Early Access
+coefficient rating = 4
+-----
+Startide
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+Ninja Shodown
+price: 9.99
+
+Category of game: Action
+coefficient rating = 10
+-----
+Art of Guile
+price: 3.99
+
+Category of game: Action;Indie;RPG;Strategy;Early Access
+coefficient rating = 19
+-----
+Cyber Complex
+price: 6.99
+
+Category of game: Action;Casual;Indie;Simulation;Strategy
+coefficient rating = 1
+-----
+The Last One
+price: 6.19
+
+Category of game: Action;Adventure;Indie;Early Access
+coefficient rating = 4
+-----
+qb
+price: 4.99
+
+Category of game: Violent;Action;Adventure;Casual;Indie;RPG;Early Access
+coefficient rating = 22
+-----
+Solaroids: Prologue
+price: 7.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 26
+-----
+Don't cut your hand
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 104
+-----
+Shotgun Farmers
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 460
+-----
+Tank Force
+price: 0.0
+
+Category of game: Action;Free to Play;Simulation
+coefficient rating = 226
+-----
+VOLTED
+price: 3.99
+
+Category of game: Action;Indie;Racing;Simulation
+coefficient rating = 47
+-----
+Battle Bolts
+price: 7.19
+
+Category of game: Action;Indie;Strategy;Early Access
+coefficient rating = 7
+-----
+Dark: Frontier
+price: 6.99
+
+Category of game: Violent;Action;Adventure;Casual;RPG;Early Access
+coefficient rating = 2
+-----
+Tanki X
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer
+coefficient rating = 591
+-----
+Volatile Triangle
+price: 1.69
+
+Category of game: Action;Casual;Indie
+coefficient rating = 6
+-----
+Guns of Icarus Alliance
+price: 7.19
+
+Category of game: Action;Adventure;Indie;Simulation
+coefficient rating = 414
+-----
+Planetes
+price: 7.7
+
+Category of game: Action;Casual;Indie;RPG;Strategy;Early Access
+coefficient rating = 8
+-----
+Starway Fleet
+price: 7.19
+
+Category of game: Action;Casual;Simulation
+coefficient rating = 30
+-----
+Shogo: Mobile Armor Division
+price: 6.99
+
+Category of game: Action;Adventure;Strategy
+coefficient rating = 14
+-----
+CityBattle | Virtual Earth
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer
+coefficient rating = 405
+-----
+MAD MACHINES
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Sports;Early Access
+coefficient rating = 26
+-----
+Evil Tag
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 71
+-----
+Duel VR
+price: 6.99
+
+Category of game: Violent;Action;Casual;Early Access
+coefficient rating = 739
+-----
+Eastwood VR
+price: 2.79
+
+Category of game: Action;Indie;Simulation;Early Access
+coefficient rating = 7
+-----
+Epic Mayhem
+price: 0.79
+
+Category of game: Action;Casual;Indie;Racing;Sports
+coefficient rating = 2
+-----
+Drone Fighters
+price: 5.19
+
+Category of game: Action;Indie;Simulation;Sports;Early Access
+coefficient rating = 14
+-----
+Hoverloop
+price: 0.0
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 6
+-----
+Need For Drink
+price: 1.49
+
+Category of game: Action;Adventure;Casual;Simulation
+coefficient rating = 429
+-----
+Golden Panic
+price: 6.99
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 10
+-----
+Qbike: Cyberpunk Motorcycles
+price: 6.99
+
+Category of game: Action;Casual;Massively Multiplayer;Racing;Simulation;Sports;Early Access
+coefficient rating = 17
+-----
+M.A.X.: Mechanized Assault & Exploration
+price: 6.99
+
+Category of game: Action;Strategy
+coefficient rating = 28
+-----
+Crimson Earth
+price: 0.79
+
+Category of game: Violent;Gore;Action
+coefficient rating = 20
+-----
+Drunk-Fu: Wasted Masters
+price: 6.99
+
+Category of game: Action;Indie;Simulation;Sports
+coefficient rating = 17
+-----
+Mr Blaster
+price: 1.59
+
+Category of game: Action;Casual;Indie
+coefficient rating = 2
+-----
+Hailstorm VR
+price: 7.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 9
+-----
+The Crowded Party Game Collection
+price: 5.59
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 11
+-----
+Pixel Gear
+price: 8.99
+
+Category of game: Action;Indie
+coefficient rating = 4
+-----
+One Bullet left
+price: 2.79
+
+Category of game: Violent;Action;Indie
+coefficient rating = 2
+-----
+Wrecked: Get Your Ship Together
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 12
+-----
+Just Cause™ 3: Multiplayer Mod
+price: 0.0
+
+Category of game: Violent;Action;Massively Multiplayer
+coefficient rating = 520
+-----
+Vroom Kaboom
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Racing;Strategy
+coefficient rating = 6
+-----
+Unleash
+price: 7.19
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 37
+-----
+Freaky Awesome
+price: 6.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 44
+-----
+Road Dogs
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Massively Multiplayer;Racing;RPG;Strategy;Early Access
+coefficient rating = 1
+-----
+Button Button
+price: 9.29
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 18
+-----
+Lazer Cops
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 6
+-----
+Shattered Steel
+price: 6.99
+
+Category of game: Action;Simulation
+coefficient rating = 1
+-----
+Prank Bros / 欢乐兄弟
+price: 7.19
+
+Category of game: Action;Casual;Indie
+coefficient rating = 25
+-----
+Cornflower Corbin
+price: 1.69
+
+Category of game: Action;Casual;Indie
+coefficient rating = 1
+-----
+The Cleansing - Versus
+price: 0.0
+
+Category of game: Action;Indie;RPG;Strategy;Early Access
+coefficient rating = 2
+-----
+Shadows in the Darkness
+price: 3.99
+
+Category of game: Action;Adventure;Indie;RPG;Early Access
+coefficient rating = 3
+-----
+Multiplayer FPS Demo
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie
+coefficient rating = 19
+-----
+WizzBall
+price: 7.19
+
+Category of game: Action;Indie;Sports
+coefficient rating = 6
+-----
+Crimson Earth 2
+price: 0.79
+
+Category of game: Violent;Gore;Action;Adventure;Indie
+coefficient rating = 15
+-----
+Trail of Destruction
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 3
+-----
+Suncore Chronicles: The Tower
+price: 0.0
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 2
+-----
+Tanks VR
+price: 7.19
+
+Category of game: Action;Simulation;Strategy;Early Access
+coefficient rating = 16
+-----
+Murderous Pursuits
+price: 7.99
+
+Category of game: Action;Indie;Simulation;Strategy
+coefficient rating = 488
+-----
+Throttle Powah VR
+price: 6.19
+
+Category of game: Action;Indie;Racing;Sports;Early Access
+coefficient rating = 25
+-----
+Skyfront VR
+price: 7.19
+
+Category of game: Action;Indie;Simulation
+coefficient rating = 65
+-----
+RUN ROOMS
+price: 1.49
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;Simulation
+coefficient rating = 140
+-----
+Heroes of Umbra
+price: 6.99
+
+Category of game: Action;Indie;RPG
+coefficient rating = 15
+-----
+Mind Maze
+price: 0.79
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Simulation;Strategy
+coefficient rating = 18
+-----
+Chickens Madness
+price: 5.19
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 1
+-----
+Son Korsan
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Strategy
+coefficient rating = 78
+-----
+Order No. 227: Not one step back!
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 64
+-----
+Hell Dimension VR
+price: 6.99
+
+Category of game: Violent;Gore;Action
+coefficient rating = 9
+-----
+CRAFT BATTLE SIMULATOR
+price: 3.99
+
+Category of game: Action;Casual;Massively Multiplayer;Simulation;Strategy
+coefficient rating = 1
+-----
+NitroRage
+price: 3.99
+
+Category of game: Violent;Action;Casual;Indie;Massively Multiplayer;Racing
+coefficient rating = 9
+-----
+ConcPerfect 2017
+price: 0.79
+
+Category of game: Action;Casual;Indie;Racing
+coefficient rating = 12
+-----
+Clash of Robots
+price: 6.99
+
+Category of game: Action;Massively Multiplayer;RPG;Strategy
+coefficient rating = 12
+-----
+NEON GALAXY
+price: 1.59
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+Blockara
+price: 4.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 2
+-----
+DC Wonder: Unlimited
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+Killbox
+price: 0.0
+
+Category of game: Action;Indie;Simulation
+coefficient rating = 10
+-----
+Potentia
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 8
+-----
+Grabity
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 29
+-----
+Inflatality
+price: 7.49
+
+Category of game: Action;Casual;Indie
+coefficient rating = 4
+-----
+STICK ENGINE
+price: 0.79
+
+Category of game: Action;Adventure;Indie;Early Access
+coefficient rating = 19
+-----
+Masked Forces: Zombie Survival
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 117
+-----
+Simple Light Cycles
+price: 1.59
+
+Category of game: Action;Casual;Indie
+coefficient rating = 5
+-----
+Crazy Forest 2
+price: 7.19
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 16
+-----
+Arena
+price: 2.89
+
+Category of game: Action;Indie;Simulation;Sports;Early Access
+coefficient rating = 4
+-----
+Fly Simulator
+price: 0.79
+
+Category of game: Action;Indie;Simulation
+coefficient rating = 46
+-----
+Exocomets
+price: 1.69
+
+Category of game: Action;Indie
+coefficient rating = 3
+-----
+Claws of Furry
+price: 7.19
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 4
+-----
+Block Robot Mini Survival Game
+price: 4.79
+
+Category of game: Action;Adventure;Massively Multiplayer;Racing;Simulation
+coefficient rating = 4
+-----
+Blessed Surface
+price: 4.79
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 5
+-----
+ClickRaid
+price: 3.99
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 186
+-----
+Xtrike
+price: 1.59
+
+Category of game: Action;Strategy;Early Access
+coefficient rating = 12
+-----
+Mini Battlegrounds
+price: 0.0
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Strategy
+coefficient rating = 166
+-----
+LQVE: Lion Quest Versus Expanded
+price: 2.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 3
+-----
+Orbs
+price: 9.29
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;RPG
+coefficient rating = 4
+-----
+Tanks2.DE
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Strategy;Early Access
+coefficient rating = 9
+-----
+Law Mower
+price: 6.99
+
+Category of game: Violent;Gore;Action;Adventure;Indie
+coefficient rating = 1
+-----
+Simplefield
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 5
+-----
+Valhall 2000
+price: 1.69
+
+Category of game: Action;Casual;Indie
+coefficient rating = 5
+-----
+TYRED
+price: 8.99
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 3
+-----
+Project X
+price: 2.09
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 10
+-----
+Steampunk Action Battle Simulator
+price: 3.99
+
+Category of game: Action;Adventure;Simulation;Strategy
+coefficient rating = 2
+-----
+Bombix
+price: 0.0
+
+Category of game: Action;RPG;Strategy
+coefficient rating = 304
+-----
+Never Not Shooting
+price: 2.79
+
+Category of game: Action
+coefficient rating = 1
+-----
+Sunrise: survival
+price: 2.89
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;RPG
+coefficient rating = 48
+-----
+George VS Bonny PP Wars
+price: 2.99
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Simulation
+coefficient rating = 21
+-----
+Staff Wars: Wizard Rumble
+price: 6.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 3
+-----
+Jetman Go
+price: 1.69
+
+Category of game: Action;Casual;Indie;Simulation;Sports
+coefficient rating = 109
+-----
+Wrestling Revolution 3D
+price: 9.99
+
+Category of game: Action;Indie;Simulation;Sports;Strategy
+coefficient rating = 101
+-----
+Marble Masters: The Pit
+price: 2.89
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 1
+-----
+Enlysia
+price: 3.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 7
+-----
+Dawn of the killer zombies
+price: 3.99
+
+Category of game: Violent;Gore;Action;Adventure
+coefficient rating = 78
+-----
+Watergate Xtreme
+price: 1.99
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+Jetball
+price: 7.19
+
+Category of game: Action;Indie;Sports;Early Access
+coefficient rating = 5
+-----
+Drunken Wrestlers 2
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Simulation;Sports
+coefficient rating = 299
+-----
+Photon Rush
+price: 4.79
+
+Category of game: Action;Indie;Racing
+coefficient rating = 6
+-----
+Dead Maze
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer
+coefficient rating = 1151
+-----
+Brave
+price: 0.79
+
+Category of game: Nudity;Violent;Gore;Action;Adventure;Casual;Indie;RPG;Simulation;Strategy
+coefficient rating = 1151
+-----
+Incline
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Racing;Simulation;Sports;Early Access
+coefficient rating = 7
+-----
+Wars of Seignior
+price: 0.0
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 15
+-----
+OtterBash
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 5
+-----
+Outracer
+price: 3.99
+
+Category of game: Action;Indie;Racing
+coefficient rating = 8
+-----
+The Ultimatest Battle
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer
+coefficient rating = 268
+-----
+Omega Extinction
+price: 7.19
+
+Category of game: Violent;Action;Indie
+coefficient rating = 3
+-----
+Sure Footing
+price: 7.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 11
+-----
+Explosive Dinosaurs
+price: 6.99
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 5
+-----
+Elementals Reborn
+price: 3.99
+
+Category of game: Action;Strategy
+coefficient rating = 2
+-----
+Ameline and the Ultimate Burger
+price: 4.99
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 5
+-----
+Access
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+Elemental Combat
+price: 5.79
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 16
+-----
+Starblast
+price: 8.99
+
+Category of game: Action;Casual;Indie;Massively Multiplayer
+coefficient rating = 62
+-----
+Resurgence: Earth United
+price: 6.19
+
+Category of game: Action;Indie;RPG;Early Access
+coefficient rating = 22
+-----
+Bear Football
+price: 0.79
+
+Category of game: Action;Simulation;Sports
+coefficient rating = 11
+-----
+Yet Another Zombie Defense HD
+price: 2.79
+
+Category of game: Action;Indie
+coefficient rating = 533
+-----
+Toys Gun Fire Boom
+price: 4.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 8
+-----
+Stick Fight: The Game
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 22052
+-----
+CastleMiner Warfare
+price: 3.99
+
+Category of game: Violent;Action;Indie
+coefficient rating = 48
+-----
+Ungrounded: Ripple Unleashed VR
+price: 4.99
+
+Category of game: Action;Strategy;Early Access
+coefficient rating = 2
+-----
+Heroes of Delum
+price: 5.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 19
+-----
+Bug Killers
+price: 3.99
+
+Category of game: Action;Adventure;Casual;Indie;Strategy
+coefficient rating = 19
+-----
+Heroes of Hammerwatch
+price: 9.29
+
+Category of game: Action;Indie;RPG
+coefficient rating = 1045
+-----
+Guilt Battle Arena
+price: 7.19
+
+Category of game: Action;Casual;Indie
+coefficient rating = 18
+-----
+Full-On Paintball
+price: 0.0
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Simulation;Sports
+coefficient rating = 5
+-----
+Plexarium
+price: 2.09
+
+Category of game: Action;Casual;Indie
+coefficient rating = 12
+-----
+Aequitas Orbis
+price: 7.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 2
+-----
+VR Triber
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Racing;Simulation;Sports;Early Access
+coefficient rating = 1
+-----
+Riot Street
+price: 7.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 8
+-----
+Kingdom Watcher
+price: 2.09
+
+Category of game: Action;Indie;Sports;Strategy;Early Access
+coefficient rating = 4
+-----
+Sword Bros
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+Shooty Squad
+price: 3.99
+
+Category of game: Violent;Gore;Action;Casual;Early Access
+coefficient rating = 28
+-----
+Breach of Contract Online
+price: 2.09
+
+Category of game: Violent;Action;Free to Play;Indie;Massively Multiplayer
+coefficient rating = 7
+-----
+ZomDay
+price: 6.99
+
+Category of game: Action;Indie;RPG;Early Access
+coefficient rating = 329
+-----
+Bless Online
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 7
+-----
+Elly The Jelly
+price: 0.79
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 7
+-----
+Voxelaxy
+price: 5.19
+
+Category of game: Action;Adventure;Simulation
+coefficient rating = 18
+-----
+Fur Up
+price: 1.59
+
+Category of game: Action;Casual;Indie
+coefficient rating = 23
+-----
+Tile Battle
+price: 5.79
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 3
+-----
+Gender Bender
+price: 2.79
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+DimensionsVS
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Early Access
+coefficient rating = 29
+-----
+GUTS
+price: 6.99
+
+Category of game: Action;Indie;Sports
+coefficient rating = 22
+-----
+Apez
+price: 6.99
+
+Category of game: Action;Indie
+coefficient rating = 6
+-----
+Crimson Tide: Operation Online
+price: 3.99
+
+Category of game: Violent;Gore;Action;Massively Multiplayer;RPG;Simulation
+coefficient rating = 10
+-----
+BLADENET
+price: 5.19
+
+Category of game: Action;Casual;Indie
+coefficient rating = 66
+-----
+Power War:The First Men
+price: 0.0
+
+Category of game: Violent;Action;Indie;Massively Multiplayer
+coefficient rating = 2
+-----
+Battlegun
+price: 0.79
+
+Category of game: Action;Casual;Indie;Massively Multiplayer
+coefficient rating = 71
+-----
+ReallyGoodBattle
+price: 2.09
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+Storms of Shambhala
+price: 7.19
+
+Category of game: Action;Adventure;Casual;Indie;Strategy
+coefficient rating = 3
+-----
+Head Goal: Soccer Online
+price: 0.0
+
+Category of game: Action;Free to Play;Sports
+coefficient rating = 191
+-----
+Pogostuck: Rage With Your Friends
+price: 5.99
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 229
+-----
+Rise of One
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Strategy;Early Access
+coefficient rating = 28
+-----
+TETRUX: Online
+price: 4.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 15
+-----
+Paralysis
+price: 2.09
+
+Category of game: Violent;Gore;Action;Casual;Indie;Early Access
+coefficient rating = 9
+-----
+Infection Rate
+price: 4.99
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+Scuffle Scoundrels
+price: 3.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 3
+-----
+Alpha Mike Foxtrot VR - AMF VR
+price: 7.19
+
+Category of game: Violent;Action;Indie;Simulation
+coefficient rating = 25
+-----
+Slimebrawl
+price: 2.09
+
+Category of game: Action;Casual;Indie
+coefficient rating = 1
+-----
+Capsular
+price: 0.0
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 27
+-----
+Tower Miners
+price: 1.99
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 1
+-----
+SiegeVR
+price: 3.99
+
+Category of game: Action
+coefficient rating = 6
+-----
+Endless Combat
+price: 3.99
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 25
+-----
+Sky Hunter
+price: 8.29
+
+Category of game: Action;Massively Multiplayer
+coefficient rating = 1
+-----
+Fog Of War - Free Edition
+price: 0.0
+
+Category of game: Violent;Gore;Action;Free to Play;Indie;Massively Multiplayer
+coefficient rating = 3
+-----
+Alchemage
+price: 6.99
+
+Category of game: Action;Adventure;Indie;Early Access
+coefficient rating = 107
+-----
+Space Fighter
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 19
+-----
+STELLATUM
+price: 5.79
+
+Category of game: Action;Casual;Indie;RPG;Simulation
+coefficient rating = 58
+-----
+Don't Explode
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 3
+-----
+Bomsy
+price: 2.89
+
+Category of game: Action;Casual;Indie
+coefficient rating = 2
+-----
+The Simple Apocalypse
+price: 4.99
+
+Category of game: Violent;Gore;Action;Casual;Indie;Early Access
+coefficient rating = 4
+-----
+Containment Corps
+price: 0.0
+
+Category of game: Action;Adventure;Indie;Early Access
+coefficient rating = 12
+-----
+BadLands RoadTrip
+price: 7.19
+
+Category of game: Action;Adventure;Indie;RPG
+coefficient rating = 4
+-----
+Abyssal Fall
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 6
+-----
+DEFENDERS OF THE FALLEN ISLAND
+price: 7.19
+
+Category of game: Action;Indie;Strategy;Early Access
+coefficient rating = 7
+-----
+Veritex
+price: 0.0
+
+Category of game: Action;Adventure;Indie;RPG;Early Access
+coefficient rating = 3
+-----
+Building Block Heroes
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 1
+-----
+HORDE ATTACK
+price: 5.99
+
+Category of game: Action;Casual;Indie;Strategy;Early Access
+coefficient rating = 5
+-----
+Treadnauts
+price: 7.19
+
+Category of game: Action;Casual;Indie
+coefficient rating = 91
+-----
+BROKE PROTOCOL: Online City RPG
+price: 3.99
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;RPG;Simulation;Early Access
+coefficient rating = 385
+-----
+Linx Battle Arena
+price: 0.0
+
+Category of game: Action;Casual;Indie
+coefficient rating = 11
+-----
+Jump Gunners
+price: 9.99
+
+Category of game: Action;Indie
+coefficient rating = 21
+-----
+Cruz Brothers
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 13
+-----
+Tank Wars: Anniversary Edition
+price: 5.59
+
+Category of game: Action;Casual;Indie;Simulation;Strategy;Early Access
+coefficient rating = 2
+-----
+Loot'N Shoot
+price: 0.0
+
+Category of game: Sexual Content;Violent;Gore;Action;Casual;Free to Play;Indie
+coefficient rating = 32
+-----
+Knife Club
+price: 4.79
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 39
+-----
+Silentium 2D
+price: 1.69
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+Ghostly Horizon
+price: 0.0
+
+Category of game: Action;Adventure;Indie;Early Access
+coefficient rating = 8
+-----
+ZoneDriver
+price: 0.79
+
+Category of game: Action;Indie;Massively Multiplayer;Racing
+coefficient rating = 4
+-----
+Supersonic Tank Cats
+price: 6.99
+
+Category of game: Action;Indie;Racing;Early Access
+coefficient rating = 14
+-----
+THE LAST BLADE 2
+price: 7.19
+
+Category of game: Action
+coefficient rating = 53
+-----
+THE KING OF FIGHTERS '97 GLOBAL MATCH
+price: 7.99
+
+Category of game: Action
+coefficient rating = 45
+-----
+SCHOOL SIMULATOR MULTIPLAYER
+price: 6.99
+
+Category of game: Sexual Content;Violent;Action;Indie;Massively Multiplayer;Racing;RPG;Simulation
+coefficient rating = 5
+-----
+Ball 2D: Soccer Online
+price: 0.0
+
+Category of game: Action;Free to Play;Sports
+coefficient rating = 54
+-----
+Just Fishing
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Massively Multiplayer;Simulation;Sports
+coefficient rating = 305
+-----
+Edge Of Existence
+price: 0.0
+
+Category of game: Action;Casual;Strategy;Early Access
+coefficient rating = 4
+-----
+Cube Racer
+price: 0.0
+
+Category of game: Action;Casual;Indie;Racing
+coefficient rating = 7
+-----
+World War Party: Game Of Trump
+price: 0.0
+
+Category of game: Violent;Gore;Action;Indie;Sports;Strategy
+coefficient rating = 9
+-----
+Astroe
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+The Unseen
+price: 7.19
+
+Category of game: Action;Casual;Indie;RPG;Strategy;Early Access
+coefficient rating = 3
+-----
+Will To Live Online
+price: 9.29
+
+Category of game: Action;Indie;Massively Multiplayer;RPG;Early Access
+coefficient rating = 634
+-----
+Rebons
+price: 2.89
+
+Category of game: Action;Adventure;Casual;Indie;Massively Multiplayer;Racing;RPG;Simulation;Sports;Strategy
+coefficient rating = 39
+-----
+Wasted Pizza
+price: 0.79
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 3
+-----
+Mortars VR
+price: 0.79
+
+Category of game: Action;Casual;Indie;Strategy;Early Access
+coefficient rating = 74
+-----
+Epic Battle Simulator 2
+price: 3.99
+
+Category of game: Violent;Action;Adventure;Indie;Simulation;Strategy
+coefficient rating = 6
+-----
+DIE
+price: 3.99
+
+Category of game: Action;Adventure;Casual;Indie;Massively Multiplayer
+coefficient rating = 30
+-----
+Never Split the Party
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;RPG;Simulation;Early Access
+coefficient rating = 511
+-----
+Pray for Death
+price: 6.99
+
+Category of game: Action
+coefficient rating = 5
+-----
+CYCOM: Cybernet Combat
+price: 0.79
+
+Category of game: Action;Indie;Strategy;Early Access
+coefficient rating = 10
+-----
+大乱斗 Chaos Battle
+price: 4.79
+
+Category of game: Action;Adventure;Casual;Indie;Massively Multiplayer;Strategy
+coefficient rating = 1
+-----
+Hide and go boom
+price: 0.0
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 11
+-----
+Eight Dragons
+price: 9.99
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 1
+-----
+Thirdmage
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 1
+-----
+R-COIL
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 20
+-----
+Mulletman and the Molemen
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 3
+-----
+Halloween Pumpkin Story
+price: 1.99
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 6
+-----
+Viral
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 1
+-----
+ZombieThon
+price: 0.0
+
+Category of game: Action;Casual;Indie
+coefficient rating = 14
+-----
+DEATHPIT 3000
+price: 2.99
+
+Category of game: Violent;Gore;Action;Indie
+coefficient rating = 22
+-----
+La Tale - Evolved
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 7
+-----
+ZhanDou (VR and Non-VR)
+price: 7.19
+
+Category of game: Action
+coefficient rating = 10
+-----
+Fatal Velocity: Physics Combat
+price: 0.0
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 29
+-----
+CASE 2: Animatronics Survival
+price: 5.79
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;Simulation
+coefficient rating = 267
+-----
+Modern Combat Versus
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play
+coefficient rating = 402
+-----
+Rise:30 Minutes to Extinction
+price: 7.19
+
+Category of game: Action;Casual;Indie
+coefficient rating = 7
+-----
+King of the Couch: Zoovival
+price: 0.0
+
+Category of game: Action;Casual;Indie
+coefficient rating = 61
+-----
+Another Rocket Game
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 7
+-----
+Slap City
+price: 7.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 1489
+-----
+❂ Heroes of Hexaluga ❂
+price: 7.19
+
+Category of game: Action;Adventure;Indie;RPG;Strategy;Early Access
+coefficient rating = 3
+-----
+Cardboard Wars
+price: 6.19
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 11
+-----
+Debris Infinity
+price: 3.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 14
+-----
+HEXOPODS
+price: 2.09
+
+Category of game: Action;Casual;Indie;Sports
+coefficient rating = 1
+-----
+Kentucky Dash
+price: 3.99
+
+Category of game: Action;Indie;Racing;Early Access
+coefficient rating = 1
+-----
+Keyscaper
+price: 5.79
+
+Category of game: Violent;Action;Indie;Early Access
+coefficient rating = 3
+-----
+Wheel Riders Online OBT
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Racing
+coefficient rating = 2
+-----
+BattleRush
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Massively Multiplayer
+coefficient rating = 672
+-----
+Civil Warfare: Another Bullet In The War
+price: 0.79
+
+Category of game: Violent;Gore;Action;Adventure;Casual;Indie;Massively Multiplayer;RPG;Strategy;Early Access
+coefficient rating = 672
+-----
+Crazy Soccer: Football Stars
+price: 9.99
+
+Category of game: Action;Sports;Strategy
+coefficient rating = 6
+-----
+Batch 17
+price: 3.99
+
+Category of game: Action;Indie;Massively Multiplayer;Early Access
+coefficient rating = 3
+-----
+Bernackels' Shoggoth
+price: 9.99
+
+Category of game: Action;Indie
+coefficient rating = 10
+-----
+Get Dis Money
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+The Parallax Effect
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Early Access
+coefficient rating = 2
+-----
+Odyssey VR - The Deep Space Expedition
+price: 9.29
+
+Category of game: Action;Adventure;Indie;Simulation
+coefficient rating = 1
+-----
+Dogstar
+price: 1.69
+
+Category of game: Action;Casual;Indie
+coefficient rating = 5
+-----
+Prey: Typhon Hunter
+price: 0.0
+
+Category of game: Action
+coefficient rating = 3
+-----
+Super Hyperactive Ninja
+price: 5.79
+
+Category of game: Action;Indie
+coefficient rating = 7
+-----
+SuperTrucks Offroad
+price: 7.19
+
+Category of game: Action;Indie;Racing;Sports
+coefficient rating = 9
+-----
+Balloonatics
+price: 7.19
+
+Category of game: Action;Indie;Simulation;Strategy;Early Access
+coefficient rating = 20
+-----
+Epic Royal
+price: 0.79
+
+Category of game: Violent;Gore;Action;Indie;Massively Multiplayer;Early Access
+coefficient rating = 11
+-----
+Dead Frontier 2
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;RPG;Early Access
+coefficient rating = 2635
+-----
+RoboVDino
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 5
+-----
+Rig or Skill: PC Brawl
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Early Access
+coefficient rating = 1
+-----
+Air Combat Arena
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 10
+-----
+Drive//Shaft
+price: 0.79
+
+Category of game: Action;Indie;Racing;Sports
+coefficient rating = 15
+-----
+Operation Red Dragon
+price: 7.19
+
+Category of game: Action;Adventure;Indie;Strategy;Early Access
+coefficient rating = 1
+-----
+State of War : Warmonger / 蓝色警戒 (Classic 2000)
+price: 7.19
+
+Category of game: Action;Strategy
+coefficient rating = 51
+-----
+DEAD DOZEN Escape
+price: 7.19
+
+Category of game: Action;Indie;Massively Multiplayer
+coefficient rating = 15
+-----
+Air Hockey
+price: 2.09
+
+Category of game: Action;Casual;Indie;Sports
+coefficient rating = 9
+-----
+Super Dashmatch
+price: 7.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 3
+-----
+War Brokers
+price: 3.99
+
+Category of game: Action;Indie;Massively Multiplayer;Simulation;Early Access
+coefficient rating = 35
+-----
+Dog Fight Super Ultra Deluxe
+price: 5.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 1
+-----
+Hexvade
+price: 1.69
+
+Category of game: Action;Casual;Indie
+coefficient rating = 5
+-----
+Battle Shapes
+price: 3.99
+
+Category of game: Action;Casual;Indie;Sports;Strategy
+coefficient rating = 12
+-----
+Battle High 2 A+
+price: 1.69
+
+Category of game: Action;Indie
+coefficient rating = 5
+-----
+Deployment
+price: 5.19
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Sports;Strategy
+coefficient rating = 192
+-----
+Trianga's Project: Battle Splash 2.0
+price: 7.5
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 49
+-----
+Archers
+price: 7.19
+
+Category of game: Gore;Action;Adventure;Indie
+coefficient rating = 1
+-----
+Paintball War
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Simulation;Sports
+coefficient rating = 19
+-----
+Disassembly Line
+price: 3.99
+
+Category of game: Action
+coefficient rating = 60
+-----
+Drunkenpants
+price: 0.0
+
+Category of game: Violent;Gore;Action;Indie;Early Access
+coefficient rating = 12
+-----
+Versus World
+price: 0.0
+
+Category of game: Violent;Gore;Action;Indie;Early Access
+coefficient rating = 54
+-----
+Go All Out!
+price: 7.19
+
+Category of game: Action;Adventure;Casual;Indie;Early Access
+coefficient rating = 7
+-----
+The Day They Landed
+price: 6.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 7
+-----
+Galactic Force
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 18
+-----
+Double Turn
+price: 3.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 4
+-----
+Slime Sports
+price: 4.79
+
+Category of game: Action;Casual;Indie;Sports
+coefficient rating = 7
+-----
+Long Live Santa!
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 1346
+-----
+Ragtag Adventurers
+price: 5.19
+
+Category of game: Action;Indie
+coefficient rating = 4
+-----
+Match Point
+price: 7.19
+
+Category of game: Action;Indie;Sports
+coefficient rating = 8
+-----
+Bubble Struggle: Adventures
+price: 5.19
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 7
+-----
+Strid
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 7
+-----
+Bean Battles
+price: 2.09
+
+Category of game: Violent;Gore;Action;Indie
+coefficient rating = 65
+-----
+Co-op SNEK Online
+price: 2.09
+
+Category of game: Action;Casual;Indie
+coefficient rating = 15
+-----
+Dead Mist: Last Stand
+price: 2.89
+
+Category of game: Gore;Action;Adventure;Indie;Early Access
+coefficient rating = 3
+-----
+War Robots
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 17
+-----
+Inhumanus
+price: 7.19
+
+Category of game: Action;Adventure
+coefficient rating = 7
+-----
+Witchball
+price: 3.99
+
+Category of game: Action;Indie;Racing;Sports
+coefficient rating = 6
+-----
+Red Hot Ricochet
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+The Little War
+price: 4.79
+
+Category of game: Action
+coefficient rating = 11
+-----
+TRAFICO
+price: 5.79
+
+Category of game: Violent;Gore;Action;Indie
+coefficient rating = 2
+-----
+Castle Clamber
+price: 2.09
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+Zazmo Arcade Pack
+price: 7.19
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 2
+-----
+Iron League
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Strategy;Early Access
+coefficient rating = 268
+-----
+4 for the Money Demo
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 39
+-----
+Arbiter
+price: 7.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 1
+-----
+Subscribe & Punch!
+price: 0.0
+
+Category of game: Action;Casual;Indie
+coefficient rating = 6
+-----
+Cannon Fire
+price: 3.99
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 1
+-----
+Drifting Cloud
+price: 1.49
+
+Category of game: Action;Indie
+coefficient rating = 10
+-----
+Blood of Patriots
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 19
+-----
+Super Steampunk Pinball 2D
+price: 1.69
+
+Category of game: Action;Casual
+coefficient rating = 17
+-----
+Rampage Ragdoll
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 55
+-----
+hOSHIs Elektronauts
+price: 0.79
+
+Category of game: Action;Casual;Indie;Racing;Early Access
+coefficient rating = 2
+-----
+Dungeon Gambit Boy
+price: 3.99
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 19
+-----
+Squirrel Sphere
+price: 5.19
+
+Category of game: Action;Indie
+coefficient rating = 10
+-----
+King Battle
+price: 7.19
+
+Category of game: Action;Massively Multiplayer;RPG
+coefficient rating = 2
+-----
+INVISIBLE
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+Block Heads: Instakill
+price: 0.0
+
+Category of game: Action
+coefficient rating = 9
+-----
+Love or Loved - A Bullet For My Valentine
+price: 3.99
+
+Category of game: Violent;Action;Adventure;Casual;Indie;RPG;Strategy
+coefficient rating = 7
+-----
+Armored Evolution
+price: 7.19
+
+Category of game: Action;Casual;Indie;RPG
+coefficient rating = 34
+-----
+Property
+price: 0.79
+
+Category of game: Violent;Action;Indie
+coefficient rating = 36
+-----
+Outworld Battlegrounds
+price: 0.0
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 34
+-----
+Lots of Balls
+price: 2.09
+
+Category of game: Action;Indie
+coefficient rating = 14
+-----
+DK Online
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 6
+-----
+Iffy Institute
+price: 4.79
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 41
+-----
+Tank Slam
+price: 2.09
+
+Category of game: Action;Casual;Indie
+coefficient rating = 1
+-----
+Twisted Sails
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie
+coefficient rating = 3
+-----
+Armada: Modern Tanks
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Simulation
+coefficient rating = 2
+-----
+Battle Tanks: Legends of World War II
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Massively Multiplayer;Simulation;Strategy
+coefficient rating = 84
+-----
+Die pig die
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Early Access
+coefficient rating = 1
+-----
+Filthy Hands
+price: 2.89
+
+Category of game: Violent;Action;Casual;Indie;Early Access
+coefficient rating = 14
+-----
+Armored Squad
+price: 1.69
+
+Category of game: Action;Indie;Massively Multiplayer
+coefficient rating = 1
+-----
+Dash Blitz
+price: 3.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 3
+-----
+Perfect Heist
+price: 3.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 31
+-----
+Nova Wing
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 2
+-----
+Clash of Castle
+price: 0.79
+
+Category of game: Action;Casual;Indie;Strategy;Early Access
+coefficient rating = 5
+-----
+Blazing Core (beta)
+price: 0.0
+
+Category of game: Action;Massively Multiplayer
+coefficient rating = 15
+-----
+Resume: The Video Game
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Racing
+coefficient rating = 10
+-----
+Mortal box
+price: 1.69
+
+Category of game: Action;Casual;Indie
+coefficient rating = 1
+-----
+Let's Kill Zombies VR
+price: 3.99
+
+Category of game: Violent;Gore;Action
+coefficient rating = 43
+-----
+ANYKEY
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie
+coefficient rating = 30
+-----
+World of Warplanes
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Simulation;Early Access
+coefficient rating = 78
+-----
+oVRshot
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 29
+-----
+Sunburnt
+price: 9.29
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 6
+-----
+Name The Song Quiz
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Early Access
+coefficient rating = 22
+-----
+Streets Ablaze
+price: 7.19
+
+Category of game: Action;Adventure;Indie;Early Access
+coefficient rating = 1
+-----
+Big Crown®: Showdown
+price: 9.99
+
+Category of game: Action;Casual
+coefficient rating = 9
+-----
+Exocraft
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Massively Multiplayer;RPG;Simulation;Strategy
+coefficient rating = 9
+-----
+The Wastes
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 8
+-----
+Star Drift
+price: 9.29
+
+Category of game: Action;Indie;Racing;Simulation;Sports
+coefficient rating = 17
+-----
+Lair of the Titans
+price: 4.79
+
+Category of game: Action;Adventure;Indie;Early Access
+coefficient rating = 342
+-----
+Professional Fishing
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Massively Multiplayer;Simulation;Sports
+coefficient rating = 120
+-----
+Animosity
+price: 7.19
+
+Category of game: Violent;Action;Adventure;Casual;Indie;Early Access
+coefficient rating = 6
+-----
+SurvivalZ
+price: 0.79
+
+Category of game: Action;Adventure;Casual;Indie;Early Access
+coefficient rating = 25
+-----
+Drill Arena
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 5
+-----
+Space Fighters
+price: 1.69
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+Unsolved Stories
+price: 1.69
+
+Category of game: Action;Adventure;Indie;RPG;Simulation;Early Access
+coefficient rating = 10
+-----
+Beer Pong VR
+price: 7.19
+
+Category of game: Action;Casual;Indie;Sports;Strategy
+coefficient rating = 36
+-----
+Drift Tuner 2019
+price: 1.69
+
+Category of game: Action;Massively Multiplayer;Racing;Simulation
+coefficient rating = 11
+-----
+Orbos
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Early Access
+coefficient rating = 14
+-----
+Pillage
+price: 4.79
+
+Category of game: Nudity;Violent;Gore;Action;Indie;Simulation
+coefficient rating = 3
+-----
+BSL Winter Games Challenge
+price: 2.09
+
+Category of game: Action;Casual;Racing;Simulation;Sports
+coefficient rating = 2
+-----
+Winions: Mana Champions
+price: 0.0
+
+Category of game: Action;Free to Play;Strategy
+coefficient rating = 2
+-----
+WIDE CROSS
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Massively Multiplayer;Strategy;Early Access
+coefficient rating = 32
+-----
+Expendable
+price: 2.89
+
+Category of game: Action;Adventure
+coefficient rating = 3
+-----
+MONMUSU * FIGHT!
+price: 5.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 7
+-----
+Wrecked
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Racing;Sports;Strategy
+coefficient rating = 1139
+-----
+Metal Division
+price: 3.99
+
+Category of game: Action;Casual;Indie;Simulation;Strategy
+coefficient rating = 8
+-----
+RUSSIA BATTLEGROUNDS
+price: 0.79
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;RPG
+coefficient rating = 490
+-----
+Unending Dusk
+price: 9.29
+
+Category of game: Action;Indie;RPG
+coefficient rating = 12
+-----
+Crimson Survival
+price: 0.79
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 3
+-----
+They Are Hundreds
+price: 0.79
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 33
+-----
+Bomb Bomb! My Friends
+price: 7.19
+
+Category of game: Action;Casual;Indie
+coefficient rating = 6
+-----
+Runes of Magic
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 6
+-----
+STAR WARS™ Episode I Racer
+price: 7.19
+
+Category of game: Action;Racing
+coefficient rating = 235
+-----
+Nanoui
+price: 5.19
+
+Category of game: Violent;Action;Adventure;Casual;Indie;RPG
+coefficient rating = 19
+-----
+TRIGGERED
+price: 6.19
+
+Category of game: Violent;Gore;Action;Indie;Early Access
+coefficient rating = 1
+-----
+RAMS
+price: 3.99
+
+Category of game: Action;Indie;Massively Multiplayer;Early Access
+coefficient rating = 22
+-----
+Radical Heights
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Massively Multiplayer;Early Access
+coefficient rating = 1638
+-----
+Starbucket
+price: 5.79
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 8
+-----
+Zombie Town : Online
+price: 6.19
+
+Category of game: Action;Casual;Indie;Massively Multiplayer
+coefficient rating = 8
+-----
+Don't Stand Out
+price: 9.29
+
+Category of game: Action;Indie;Massively Multiplayer;Early Access
+coefficient rating = 14
+-----
+It's A Racing Game
+price: 3.99
+
+Category of game: Action;Casual;Indie;Racing;Simulation;Sports;Strategy
+coefficient rating = 1
+-----
+MRS SNAKE
+price: 1.69
+
+Category of game: Action;Casual;Indie
+coefficient rating = 13
+-----
+Vector Born
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+Realm Royale
+price: 0.0
+
+Category of game: Action;Free to Play;Early Access
+coefficient rating = 7395
+-----
+Pigeons Attack
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 37
+-----
+ABYSS
+price: 2.15
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;Simulation;Early Access
+coefficient rating = 11
+-----
+SKULL FEAST
+price: 0.0
+
+Category of game: Action;Indie;Massively Multiplayer
+coefficient rating = 8
+-----
+Ratergy
+price: 2.09
+
+Category of game: Action;Casual;Indie
+coefficient rating = 90
+-----
+Swingy Sword
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 2
+-----
+Sword Mans
+price: 7.19
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 8
+-----
+Hardway Party
+price: 3.99
+
+Category of game: Action;Casual;Indie;Racing;Sports
+coefficient rating = 2
+-----
+Factory pirates
+price: 0.79
+
+Category of game: Gore;Action;Casual;Indie;Strategy
+coefficient rating = 2
+-----
+Kill Him! Online Wars
+price: 2.89
+
+Category of game: Action;Casual;Indie
+coefficient rating = 17
+-----
+Scrunk
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 4
+-----
+ZAMB! Endless Extermination
+price: 2.09
+
+Category of game: Action;Indie
+coefficient rating = 10
+-----
+Dead Shot Heroes
+price: 7.19
+
+Category of game: Action;Indie
+coefficient rating = 7
+-----
+Stardust VR
+price: 6.19
+
+Category of game: Action;Adventure;Casual;Indie;Strategy
+coefficient rating = 3
+-----
+Aqua Lungers
+price: 5.79
+
+Category of game: Action;Adventure;Casual;Indie;Racing;Early Access
+coefficient rating = 10
+-----
+Drink 'Em
+price: 7.19
+
+Category of game: Action;Casual;Indie
+coefficient rating = 17
+-----
+Wallrunners
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 4
+-----
+Lethal Lawns: Competitive Mowing Bloodsport
+price: 3.99
+
+Category of game: Action;Casual;Indie;Sports
+coefficient rating = 8
+-----
+Try to seize me
+price: 1.69
+
+Category of game: Action;Casual;Indie
+coefficient rating = 3
+-----
+Velvet Guard
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 5
+-----
+Relic Raiders
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Early Access
+coefficient rating = 28
+-----
+HELLFRONT: HONEYMOON
+price: 8.49
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 9
+-----
+Grotoro
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie
+coefficient rating = 4
+-----
+Masked Forces 3
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+Nova Wing II
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 4
+-----
+Stargazer program
+price: 4.79
+
+Category of game: Action;Casual
+coefficient rating = 1
+-----
+Metis One
+price: 5.79
+
+Category of game: Action
+coefficient rating = 3
+-----
+Wasteland Rampage
+price: 7.19
+
+Category of game: Action;Early Access
+coefficient rating = 12
+-----
+Dumb As Wizards
+price: 7.19
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 3
+-----
+Synthrally
+price: 3.99
+
+Category of game: Action;Casual;Indie;Sports
+coefficient rating = 2
+-----
+Pixel Beef Battle
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 4
+-----
+Hypertrain
+price: 7.19
+
+Category of game: Action;Indie;Racing;Simulation;Strategy
+coefficient rating = 16
+-----
+Spaceship Commander
+price: 7.19
+
+Category of game: Action;Indie;Massively Multiplayer;Strategy
+coefficient rating = 24
+-----
+Vertigo FPS
+price: 6.19
+
+Category of game: Violent;Action;Casual;Indie;Early Access
+coefficient rating = 3
+-----
+America's Retribution
+price: 2.89
+
+Category of game: Violent;Gore;Action;Indie
+coefficient rating = 22
+-----
+Neon Force Pushers
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 2
+-----
+Techwars Deathmatch
+price: 3.99
+
+Category of game: Action;Indie;Massively Multiplayer;Strategy
+coefficient rating = 2
+-----
+Dreadnought
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer
+coefficient rating = 75
+-----
+Beginner'sGame
+price: 4.79
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+Mage Fort
+price: 3.99
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 2
+-----
+Tiny Tanks
+price: 7.99
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 31
+-----
+Leder Panzer
+price: 7.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 3
+-----
+Mobile Forces
+price: 2.89
+
+Category of game: Action;Casual;Indie;Strategy
+coefficient rating = 11
+-----
+Battle Royale: Survivors 究极求生:大逃杀
+price: 3.99
+
+Category of game: Action;Adventure;Free to Play;Indie;Massively Multiplayer;Strategy;Early Access
+coefficient rating = 74
+-----
+Virtual Foosball
+price: 2.99
+
+Category of game: Action;Casual;Indie;Simulation;Sports;Early Access
+coefficient rating = 2
+-----
+Taco Gun
+price: 5.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 6
+-----
+The Last Front
+price: 0.79
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Strategy;Early Access
+coefficient rating = 13
+-----
+Dissimilated Land
+price: 9.29
+
+Category of game: Action;Adventure;RPG;Early Access
+coefficient rating = 66
+-----
+Infected Battlegrounds
+price: 7.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 14
+-----
+Codename Ghost Hunt
+price: 3.99
+
+Category of game: Violent;Action;Indie;RPG;Strategy
+coefficient rating = 2
+-----
+Desert Child
+price: 8.99
+
+Category of game: Action;Indie;Racing;RPG;Simulation
+coefficient rating = 39
+-----
+Cowboy : Attack of Wild Animal
+price: 2.09
+
+Category of game: Action;Casual;Indie
+coefficient rating = 9
+-----
+AegisM
+price: 9.99
+
+Category of game: Action;Indie;Strategy;Early Access
+coefficient rating = 22
+-----
+Guardians Of The Past
+price: 8.29
+
+Category of game: Action;Indie;Strategy
+coefficient rating = 4
+-----
+BATTLE ZOMBIE SHOOTER: SURVIVAL OF THE DEAD
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 7
+-----
+HyperBowl
+price: 2.0
+
+Category of game: Action;Casual;Indie;Sports
+coefficient rating = 8
+-----
+How About Spikes
+price: 1.69
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 8
+-----
+Let's Go Nuts!
+price: 2.09
+
+Category of game: Action;Casual;Indie
+coefficient rating = 3
+-----
+Super Destronaut DX
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 3626
+-----
+Soccer Nations Battle
+price: 0.79
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 3
+-----
+Oval
+price: 8.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 37
+-----
+Freefall Tournament
+price: 3.99
+
+Category of game: Action
+coefficient rating = 9
+-----
+Free the Animation
+price: 2.09
+
+Category of game: Action;Indie;Simulation
+coefficient rating = 3
+-----
+Sleeping Dawn VR
+price: 5.79
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 3
+-----
+Nova Wing III
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 1
+-----
+Ball Grabbers
+price: 3.99
+
+Category of game: Action;Casual;Indie;Sports
+coefficient rating = 11
+-----
+WorldQuest
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;RPG;Strategy
+coefficient rating = 25
+-----
+EXCHANGE
+price: 3.99
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Early Access
+coefficient rating = 15
+-----
+TRIGGER
+price: 5.0
+
+Category of game: Action;Racing
+coefficient rating = 3
+-----
+Superfighters Deluxe
+price: 7.5
+
+Category of game: Action;Indie
+coefficient rating = 338
+-----
+Antisnake
+price: 2.09
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 20
+-----
+The Prison Experiment: Battle Royale
+price: 2.09
+
+Category of game: Violent;Action;Indie;Massively Multiplayer;RPG;Strategy;Early Access
+coefficient rating = 21
+-----
+Just Beat Em Up : World of Fury
+price: 5.19
+
+Category of game: Action;Indie
+coefficient rating = 13
+-----
+Fallen Bird
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 14
+-----
+Dwarf Defense
+price: 3.99
+
+Category of game: Action;Adventure;Indie;Strategy;Early Access
+coefficient rating = 8
+-----
+Nature Calls
+price: 5.19
+
+Category of game: Action;Casual;Indie
+coefficient rating = 310
+-----
+Black Paradox
+price: 9.29
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 24
+-----
+Discs of Steel Party
+price: 2.19
+
+Category of game: Action;Indie;Racing;Sports
+coefficient rating = 3
+-----
+Strike Force Remastered
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 10
+-----
+Requiem
+price: 3.99
+
+Category of game: Action;Massively Multiplayer;RPG;Early Access
+coefficient rating = 10
+-----
+Mutation Mayhem
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie
+coefficient rating = 5
+-----
+DemonsAreCrazy
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Indie;RPG;Strategy;Early Access
+coefficient rating = 4
+-----
+Master Pyrox Wizard Smackdown
+price: 4.79
+
+Category of game: Action;Casual;Indie;Sports
+coefficient rating = 4
+-----
+Yahrit!
+price: 2.09
+
+Category of game: Action;Casual;Indie
+coefficient rating = 5
+-----
+Chase
+price: 0.0
+
+Category of game: Action;Casual
+coefficient rating = 4
+-----
+Stick Spartans
+price: 8.29
+
+Category of game: Action;Casual;Indie
+coefficient rating = 2
+-----
+小游戏世界(中国版)
+price: 0.0
+
+Category of game: Action;Casual;Massively Multiplayer
+coefficient rating = 12
+-----
+EggFight
+price: 0.0
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 1
+-----
+Pylow
+price: 0.0
+
+Category of game: Action;Indie
+coefficient rating = 3
+-----
+Brotherhood United
+price: 5.79
+
+Category of game: Action;Indie
+coefficient rating = 7
+-----
+World of Zombies
+price: 8.29
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;Early Access
+coefficient rating = 2
+-----
+Jumponaut
+price: 2.09
+
+Category of game: Action;Indie
+coefficient rating = 7
+-----
+ZOOMnBOOM
+price: 1.69
+
+Category of game: Action;Indie;Racing
+coefficient rating = 1
+-----
+Allergenium
+price: 5.99
+
+Category of game: Action;Adventure;Simulation;Early Access
+coefficient rating = 1
+-----
+BattleRush 2
+price: 5.79
+
+Category of game: Action;Massively Multiplayer
+coefficient rating = 201
+-----
+Capsella The Lights of Lucern
+price: 5.49
+
+Category of game: Action;Adventure;RPG;Early Access
+coefficient rating = 12
+-----
+The Neon Boy
+price: 2.09
+
+Category of game: Action;Adventure;Casual;Indie;Massively Multiplayer
+coefficient rating = 23
+-----
+SurvivalZ Battlegrounds
+price: 0.79
+
+Category of game: Action;Indie;Simulation;Strategy
+coefficient rating = 70
+-----
+ALIENS INVADED OUR PLANET
+price: 0.79
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 3
+-----
+Hat Hunters
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Strategy
+coefficient rating = 1
+-----
+Dead Mayhem
+price: 4.79
+
+Category of game: Action;Indie
+coefficient rating = 5
+-----
+Gravity Wars
+price: 3.99
+
+Category of game: Action
+coefficient rating = 6
+-----
+Sumerian Blood: Gilgamesh against the Gods
+price: 3.99
+
+Category of game: Action;Strategy
+coefficient rating = 1
+-----
+东方大战争 ~ Touhou Big Big Battle
+price: 4.79
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Strategy;Early Access
+coefficient rating = 779
+-----
+Battlerite Royale
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer
+coefficient rating = 1114
+-----
+'90s Football Stars
+price: 7.19
+
+Category of game: Action;Casual;Indie;Sports;Early Access
+coefficient rating = 4
+-----
+Stick Arena
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 16
+-----
+The Battle Of Ages
+price: 3.99
+
+Category of game: Action;Indie;Massively Multiplayer;RPG;Early Access
+coefficient rating = 1
+-----
+Struggle For Light
+price: 5.19
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+V.T.
+price: 7.19
+
+Category of game: Action;Adventure;Casual;Indie;Simulation
+coefficient rating = 7
+-----
+Sunken
+price: 2.09
+
+Category of game: Action;Casual;Indie
+coefficient rating = 4
+-----
+Cuisine Royale
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Early Access
+coefficient rating = 6693
+-----
+Super Seeker
+price: 2.09
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;Early Access
+coefficient rating = 3
+-----
+Nova-Life
+price: 7.19
+
+Category of game: Action;Indie;Simulation;Early Access
+coefficient rating = 18
+-----
+Walk on Arrow
+price: 8.29
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Simulation;Early Access
+coefficient rating = 46
+-----
+EndCycle VS
+price: 7.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 14
+-----
+Glitch Pets
+price: 5.19
+
+Category of game: Action;Adventure;Casual;Indie;Simulation
+coefficient rating = 22
+-----
+Proficient Paddles
+price: 0.79
+
+Category of game: Action;Casual;Indie;Sports
+coefficient rating = 3
+-----
+Vortex Of Pain
+price: 7.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 30
+-----
+World of War : Battlegrounds
+price: 2.09
+
+Category of game: Violent;Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Strategy
+coefficient rating = 4
+-----
+MiniCar Race - 极品飞车2019 Mini
+price: 2.09
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Racing
+coefficient rating = 8
+-----
+StickyBots
+price: 6.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 20
+-----
+Mirror Stage
+price: 0.79
+
+Category of game: Action;Indie;Massively Multiplayer;RPG
+coefficient rating = 5
+-----
+Valor Time
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;RPG
+coefficient rating = 48
+-----
+Whiskered Away
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie
+coefficient rating = 1
+-----
+JUST a Game
+price: 0.79
+
+Category of game: Action;Adventure;Casual;Indie;Massively Multiplayer;Early Access
+coefficient rating = 2
+-----
+Hell Knights
+price: 2.99
+
+Category of game: Gore;Action;Indie
+coefficient rating = 7
+-----
+pla_toon
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Early Access
+coefficient rating = 383
+-----
+Fish Catcher
+price: 0.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 2
+-----
+Slay Together
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Early Access
+coefficient rating = 90
+-----
+Fury Strike
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 3
+-----
+Hanz Puppetguns
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer
+coefficient rating = 25
+-----
+Warrecs
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Massively Multiplayer;Strategy
+coefficient rating = 36
+-----
+JJBoom
+price: 3.99
+
+Category of game: Action;Casual;Indie;Strategy;Early Access
+coefficient rating = 137
+-----
+Endless Battle
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Massively Multiplayer
+coefficient rating = 137
+-----
+Bouncing Over It with friends
+price: 4.49
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 13
+-----
+Retroids
+price: 3.99
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 2
+-----
+Solar Fighters
+price: 3.99
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 20
+-----
+Pingball Ultra
+price: 0.79
+
+Category of game: Action;Casual;Indie;Sports
+coefficient rating = 1
+-----
+Warlords.io
+price: 3.99
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 3
+-----
+AXIOM SOCCER
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Racing;Sports;Early Access
+coefficient rating = 54
+-----
+Flameruby
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 36
+-----
+Combat Arms: Reloaded
+price: 0.0
+
+Category of game: Action;Free to Play;Massively Multiplayer;Simulation;Strategy
+coefficient rating = 4
+-----
+Bomber 95
+price: 2.09
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 7
+-----
+Deep Space
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Early Access
+coefficient rating = 14
+-----
+Boom Brothers
+price: 4.79
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 4
+-----
+All For One
+price: 3.99
+
+Category of game: Action;Adventure;Massively Multiplayer;RPG;Early Access
+coefficient rating = 1
+-----
+Suprapong
+price: 8.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 2
+-----
+RAZ
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+Plastic soldiers
+price: 0.79
+
+Category of game: Action;Indie;Massively Multiplayer;Early Access
+coefficient rating = 60
+-----
+Zup! Arena
+price: 0.0
+
+Category of game: Action;Casual;Massively Multiplayer
+coefficient rating = 6
+-----
+BattleBlade
+price: 2.89
+
+Category of game: Violent;Action;Adventure;Indie
+coefficient rating = 3
+-----
+HALF DEAD 2
+price: 3.99
+
+Category of game: Action;Adventure;Massively Multiplayer;Early Access
+coefficient rating = 286
+-----
+Welcome to Princeland
+price: 3.99
+
+Category of game: Action;Adventure;Casual
+coefficient rating = 62
+-----
+MINImax Tinyverse
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie;Simulation;Strategy;Early Access
+coefficient rating = 93
+-----
+TeleBlast
+price: 7.19
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 3
+-----
+ULTIMATE HARDBASS DEFENCE
+price: 1.69
+
+Category of game: Action;Indie;Massively Multiplayer
+coefficient rating = 615
+-----
+Team Up VR (Beta)
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 6
+-----
+Skelittle: A Giant Party!!
+price: 9.99
+
+Category of game: Action;Adventure;Indie;Early Access
+coefficient rating = 10
+-----
+Fish Duel
+price: 3.99
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Simulation;Early Access
+coefficient rating = 8
+-----
+Special Warfare
+price: 3.99
+
+Category of game: Action;Adventure;Casual;Indie;Massively Multiplayer
+coefficient rating = 5
+-----
+Tanks With Hands: Armed and Treaded
+price: 9.29
+
+Category of game: Action;Casual;Indie
+coefficient rating = 1
+-----
+Burndown
+price: 5.79
+
+Category of game: Action;Adventure;Massively Multiplayer;Racing;Early Access
+coefficient rating = 237
+-----
+Jar Battlers
+price: 2.09
+
+Category of game: Action;Casual;Indie
+coefficient rating = 4
+-----
+HANZ!
+price: 3.99
+
+Category of game: Action;Indie;Massively Multiplayer
+coefficient rating = 12
+-----
+Plunder Squad
+price: 5.19
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 2
+-----
+Battle Royale Survival
+price: 3.99
+
+Category of game: Action;Adventure;Early Access
+coefficient rating = 4
+-----
+Trip in HELL
+price: 4.79
+
+Category of game: Violent;Gore;Action;Adventure;Indie;Massively Multiplayer
+coefficient rating = 18
+-----
+VIDEO GAME
+price: 1.0
+
+Category of game: Action;Indie;Sports
+coefficient rating = 9
+-----
+Operation Lone Wolf
+price: 5.79
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 10
+-----
+PsyBurst
+price: 2.09
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+CRAKEN
+price: 2.09
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 3
+-----
+ForzeBreak
+price: 0.0
+
+Category of game: Action;Casual;Free to Play;Indie
+coefficient rating = 1
+-----
+Tank Royale
+price: 3.99
+
+Category of game: Action;Casual;Massively Multiplayer;Strategy;Early Access
+coefficient rating = 2
+-----
+王者英雄 The Great Hero
+price: 6.99
+
+Category of game: Action;RPG;Strategy;Early Access
+coefficient rating = 3
+-----
+Pixel Royale
+price: 4.99
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Simulation
+coefficient rating = 3
+-----
+Multibombers
+price: 3.99
+
+Category of game: Action;Casual;Free to Play;Indie;Strategy;Early Access
+coefficient rating = 41
+-----
+BattleCry: World At War
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Simulation;Strategy
+coefficient rating = 5
+-----
+Little World Of Creatures
+price: 2.89
+
+Category of game: Action;Casual;Indie;Massively Multiplayer
+coefficient rating = 2
+-----
+RoboBunnies In Space!
+price: 2.89
+
+Category of game: Action;Adventure;Casual;Indie;Early Access
+coefficient rating = 3
+-----
+Halzae: Heroes of Divinity
+price: 0.0
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 5
+-----
+Timberman VS
+price: 1.69
+
+Category of game: Action;Casual;Indie
+coefficient rating = 58
+-----
+BlitzKeep Unleashed
+price: 6.19
+
+Category of game: Action;Indie;RPG;Early Access
+coefficient rating = 6
+-----
+Antistatic
+price: 9.29
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 8
+-----
+Zombie Builder Defense
+price: 1.69
+
+Category of game: Action
+coefficient rating = 81
+-----
+Lil' Arena
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Early Access
+coefficient rating = 14
+-----
+Away From Earth: Mars 2
+price: 1.69
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 15
+-----
+The 'I Love Money' Show
+price: 1.69
+
+Category of game: Action;Casual;Indie
+coefficient rating = 8
+-----
+Dragon Simulator Multiplayer
+price: 0.79
+
+Category of game: Action;Indie;Simulation
+coefficient rating = 36
+-----
+Killing random dudes online
+price: 0.79
+
+Category of game: Action;Casual;Simulation
+coefficient rating = 2
+-----
+Rise of the Pirates
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Early Access
+coefficient rating = 11
+-----
+PRATAGON
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+Bliss Maze(极乐迷宫)
+price: 4.79
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;RPG
+coefficient rating = 31
+-----
+Refraction
+price: 2.89
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+阿达三国志2019  竖版 Three Kingdoms 2019
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG;Simulation;Strategy
+coefficient rating = 2
+-----
+War Machines: Free to Play
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Indie;Racing;RPG;Simulation;Strategy
+coefficient rating = 62
+-----
+Beat Boxers
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 15
+-----
+Armoured Alliance
+price: 9.99
+
+Category of game: Action;Strategy
+coefficient rating = 11
+-----
+Zombie Cubes
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 6
+-----
+Massive multiplayer war shooter
+price: 1.99
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer
+coefficient rating = 3
+-----
+Horror Legends
+price: 7.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 27
+-----
+Pacify
+price: 3.99
+
+Category of game: Action;Adventure;Casual;Indie;Strategy
+coefficient rating = 1136
+-----
+Recursive Pain
+price: 0.79
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Early Access
+coefficient rating = 7
+-----
+Mine Royale - Battle Royale
+price: 2.09
+
+Category of game: Action;Adventure;Strategy
+coefficient rating = 8
+-----
+Warp Glider
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 22
+-----
+BattleRush: Ardennes Assault
+price: 3.99
+
+Category of game: Action;Massively Multiplayer
+coefficient rating = 9
+-----
+Ball Out
+price: 4.79
+
+Category of game: Action;Indie;Racing;Sports;Early Access
+coefficient rating = 19
+-----
+Bomber Arena
+price: 2.89
+
+Category of game: Action;Adventure;Casual;Indie;Strategy
+coefficient rating = 14
+-----
+Gyro Boss DX
+price: 3.99
+
+Category of game: Action;Casual
+coefficient rating = 8
+-----
+Dragon World
+price: 1.69
+
+Category of game: Action;Indie
+coefficient rating = 2299
+-----
+Super Hero Fight Club: Reloaded
+price: 3.99
+
+Category of game: Action;Indie
+coefficient rating = 5
+-----
+Snow Ash Land
+price: 4.99
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Early Access
+coefficient rating = 11
+-----
+Corma
+price: 0.0
+
+Category of game: Action;Adventure;Free to Play;Indie;Massively Multiplayer;Strategy;Early Access
+coefficient rating = 29
+-----
+Nanobotic
+price: 0.0
+
+Category of game: Action;Free to Play;Indie;Strategy;Early Access
+coefficient rating = 67
+-----
+Rebel Forces
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 380
+-----
+Laser Party
+price: 1.69
+
+Category of game: Action;Indie
+coefficient rating = 14
+-----
+Pixel Battle Royale
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 27
+-----
+Slightly Heroes VR
+price: 7.19
+
+Category of game: Action;Casual
+coefficient rating = 32
+-----
+Hide Your Butts
+price: 1.69
+
+Category of game: Action;Indie
+coefficient rating = 13
+-----
+Bomber Barn
+price: 7.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 2
+-----
+Killer Clowns
+price: 3.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 1
+-----
+BATTLLOON - バトルーン
+price: 5.49
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+::CallBack
+price: 4.99
+
+Category of game: Action;Casual;Indie;Sports;Early Access
+coefficient rating = 1
+-----
+王者战车
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Massively Multiplayer;Simulation;Sports;Strategy
+coefficient rating = 16
+-----
+Urban Trial Playground
+price: 5.19
+
+Category of game: Action;Casual;Indie;Racing;Sports
+coefficient rating = 14
+-----
+TowerHex
+price: 7.19
+
+Category of game: Action;Adventure;Indie;RPG;Early Access
+coefficient rating = 3
+-----
+Switch & Ditch
+price: 0.0
+
+Category of game: Action;Casual
+coefficient rating = 5
+-----
+Havocado
+price: 7.19
+
+Category of game: Action;Indie;Early Access
+coefficient rating = 6
+-----
+Quest for the Golden Duck
+price: 6.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 5
+-----
+Hyper Scuffle
+price: 1.69
+
+Category of game: Action;Casual;Indie
+coefficient rating = 8
+-----
+Flash Point
+price: 3.99
+
+Category of game: Action;Indie;Massively Multiplayer;Early Access
+coefficient rating = 10
+-----
+神明在上(Zengeon)
+price: 6.19
+
+Category of game: Action;Adventure;Indie;RPG;Early Access
+coefficient rating = 292
+-----
+Jumping Master(跳跳大咖)
+price: 0.0
+
+Category of game: Action;Adventure;Casual;Free to Play;Massively Multiplayer
+coefficient rating = 13
+-----
+Allspace
+price: 0.0
+
+Category of game: Action;Massively Multiplayer;Simulation;Early Access
+coefficient rating = 16
+-----
+Aussie Battler Tanks
+price: 7.19
+
+Category of game: Action;Adventure;Casual;Indie;Massively Multiplayer;Simulation
+coefficient rating = 13
+-----
+Invasion Zero
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 94
+-----
+Chaos Caves
+price: 4.79
+
+Category of game: Action;Indie
+coefficient rating = 1
+-----
+HYPERFIGHT Max Battle
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 84
+-----
+Urban Justice
+price: 5.79
+
+Category of game: Action;Adventure;Casual;Indie
+coefficient rating = 6
+-----
+Gladiator: Blades of Fury
+price: 7.19
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 23
+-----
+Spykebots
+price: 8.29
+
+Category of game: Action;Indie;Sports
+coefficient rating = 6
+-----
+Away From Earth: Moon
+price: 1.69
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 14
+-----
+Hide and Seek
+price: 2.09
+
+Category of game: Action;Massively Multiplayer;RPG;Early Access
+coefficient rating = 17
+-----
+Time to Fight
+price: 2.89
+
+Category of game: Action;Casual;Indie
+coefficient rating = 2
+-----
+Endzeit
+price: 7.19
+
+Category of game: Action;Early Access
+coefficient rating = 1
+-----
+Magic Combat VR
+price: 0.0
+
+Category of game: Action;Free to Play;Indie
+coefficient rating = 5
+-----
+God Monster
+price: 3.02
+
+Category of game: Action;RPG
+coefficient rating = 169
+-----
+Falling Bullets
+price: 0.79
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;Strategy
+coefficient rating = 7
+-----
+X-POINT
+price: 7.42
+
+Category of game: Action;Adventure;Massively Multiplayer;Simulation;Strategy;Early Access
+coefficient rating = 5
+-----
+Smash team
+price: 0.79
+
+Category of game: Action;Massively Multiplayer;Early Access
+coefficient rating = 1
+-----
+The Region
+price: 4.79
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;Simulation;Early Access
+coefficient rating = 4
+-----
+CLASH! - Battle Arena
+price: 4.79
+
+Category of game: Action;Indie
+coefficient rating = 16
+-----
+Neon Infinity
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 3
+-----
+Animal Fight Club
+price: 2.95
+
+Category of game: Action;Adventure;Indie;Massively Multiplayer;Simulation;Strategy
+coefficient rating = 30
+-----
+STAB STAB STAB!
+price: 5.79
+
+Category of game: Action;Casual;Indie
+coefficient rating = 8
+-----
+FIREGROUND
+price: 2.89
+
+Category of game: Action;Indie;Massively Multiplayer;Simulation;Early Access
+coefficient rating = 2
+-----
+Gekido Kintaro's Revenge
+price: 9.99
+
+Category of game: Action;Indie
+coefficient rating = 13
+-----
+Sheep Collision
+price: 8.29
+
+Category of game: Action;Casual;Indie
+coefficient rating = 16
+-----
+Bears in Tanks
+price: 0.79
+
+Category of game: Action
+coefficient rating = 1
+-----
+The Ploshers
+price: 5.79
+
+Category of game: Action;Adventure;Casual
+coefficient rating = 3
+-----
+Shipped
+price: 5.2
+
+Category of game: Action;Casual;Indie;Sports
+coefficient rating = 294
+-----
+StoneTide: Age of Pirates
+price: 7.19
+
+Category of game: Action;Adventure;Casual;Indie;RPG;Early Access
+coefficient rating = 5
+-----
+BUCKLER 2
+price: 3.99
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 1
+-----
+Observers
+price: 3.99
+
+Category of game: Action;Adventure;Casual;Indie;Strategy
+coefficient rating = 1
+-----
+Unreal Maze Survival
+price: 0.79
+
+Category of game: Action;Indie
+coefficient rating = 2
+-----
+Peekaboo
+price: 3.99
+
+Category of game: Action;Casual;Indie;Massively Multiplayer;RPG;Early Access
+coefficient rating = 56
+-----
+KillStreak.tv
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 54
+-----
+Lover Bands
+price: 1.69
+
+Category of game: Action
+coefficient rating = 4
+-----
+Foxyland 2
+price: 2.09
+
+Category of game: Action;Adventure;Indie
+coefficient rating = 5
+-----
+Bot Battles
+price: 0.0
+
+Category of game: Action;Free to Play
+coefficient rating = 13
+-----
+Minions Battle
+price: 0.79
+
+Category of game: Action;Casual;Indie;Early Access
+coefficient rating = 11
+-----
+Super Star Blast
+price: 3.99
+
+Category of game: Action;Casual;Indie
+coefficient rating = 7
+-----
