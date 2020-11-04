@@ -64,19 +64,18 @@ def check_price():
 with open('steam.csv', encoding='utf-8') as f, open('result_file.txt', 'w', encoding='utf-8') as writing_result:
     writing_result.write('Games for you:\n')
     for row in f:
-        row = list(row.split(','))
+        row = row.split(',')
         if row[12].isdigit() and row[13].isdigit():
             if int(row[12]) > int(row[13]):
                 coefficient_rating = int(row[12]) - int(row[13])
         if row[7].isdigit():
             if input_age >= int(row[7]):
-                if check_rating() is True and check_category() is True and check_genre() is True \
-                        and check_platform() is True and check_price() is True:
-                    writing_result.write(row[1] + "\n" + "price: " + row[17] + "\n" + "Category of game: "
-                                         + row[9] + "\n" + "coefficient rating = " + str(coefficient_rating)
-                                         + "\n-----\n")
+                if check_rating() and check_category() and check_genre() and check_platform() and check_price():
+                    writing_result.write(row[1] + '\n' + 'price: ' + row[17] + '\n' + 'Category of game: '
+                                         + row[9] + '\n' + 'coefficient rating = ' + str(coefficient_rating)
+                                         + '\n-----\n')
                 if check_rating() is False and check_category() is True and check_genre() is True \
                         and check_platform() is True and check_price() is True:
-                    writing_result.write(row[1] + "\n" + "price: " + row[17] + "\n" + "Category of game: " + row[9] \
-                                         + "\n-----\n")
-print("the results received in the file result_file.txt")
+                    writing_result.write(row[1] + '\n' + 'price: ' + row[17] + '\n' + 'Category of game: ' + row[9]
+                                         + '\n-----\n')
+print('the results received in the file result_file.txt')
