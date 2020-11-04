@@ -47,7 +47,7 @@ def check_rating():
         else:
             return False
     else:
-        print("you don't care about rating")
+        print('you do not care about rating')
         return False
 
 
@@ -74,8 +74,7 @@ with open('steam.csv', encoding='utf-8') as f, open('result_file.txt', 'w', enco
                     writing_result.write(row[1] + '\n' + 'price: ' + row[17] + '\n' + 'Category of game: '
                                          + row[9] + '\n' + 'coefficient rating = ' + str(coefficient_rating)
                                          + '\n-----\n')
-                if check_rating() is False and check_category() is True and check_genre() is True \
-                        and check_platform() is True and check_price() is True:
+                if check_rating() and check_category() and check_genre() and check_platform() and check_price():
                     writing_result.write(row[1] + '\n' + 'price: ' + row[17] + '\n' + 'Category of game: ' + row[9]
                                          + '\n-----\n')
 print('the results received in the file result_file.txt')
